@@ -1,0 +1,1317 @@
+handle,label,name,year,type,url,withheld,lat,lon,extra
+collection:asc-conference-websites,Collection,ASC conference websites,,,,,,,
+collection:patterns-newsletter,Collection,PATTERNS newsletter,,,,,,,
+collection:asc-website-1997-2016,Collection,ASC website 1997–2016,,,,,,,
+collection:asc-website-2016-now,Collection,ASC website 2016–now,,,,,,,
+collection:cybernetics-of-cybernetics-competition,Collection,Cybernetics of Cybernetics Competition,,,,,,,
+collection:2009-by-laws-consultation,Collection,2009 By-laws consultation,,,,,,,
+collection:cybernetics-literacy,Collection,Cybernetics Literacy,,,,,,,
+concept:circularity,Concept,Circularity,,,,,,,"Cybernetics is the study of circularity: of feedback, regulation and control in living, mechanical and social systems."
+concept:variety,Concept,Variety,,,,,,,Only variety can absorb variety: a regulator must be able to match the complexity of what it regulates.
+concept:self-organisation,Concept,Self-organisation,,,,,,,Systems organise and maintain themselves through their own circular processes.
+concept:the-observer,Concept,The observer,,,,,,,The observer is part of the system observed.
+concept:distinction,Concept,Distinction,,,,,,,Knowing is constructed by drawing distinctions.
+concept:conversation,Concept,Conversation,,,,,,,Understanding grows through conversation.
+concept:ethics-and-choice,Concept,Ethics and choice,,,,,,,"Cybernetics carries an ethic of participation, responsibility and choice."
+place:macy-conferences-new-york,Place,"Macy Conferences, New York",,history,,,40.71,-74.01,1946–1953
+place:biological-computer-laboratory-university-of-illinois,Place,"Biological Computer Laboratory, University of Illinois",,history,,,40.11,-88.23,1958–1976
+place:university-of-illinois-archives-asc-records-umpleby-von-foerster-bcl,Place,"University of Illinois Archives (ASC records, Umpleby, von Foerster, BCL)",,holding,,,40.1,-88.26,holdings
+place:heinz-von-foerster-gordon-pask-archive-university-of-vienna,Place,"Heinz von Foerster & Gordon Pask Archive, University of Vienna",,holding,,,48.21,16.36,holdings
+place:stafford-beer-collection-liverpool-john-moores-university,Place,"Stafford Beer Collection, Liverpool John Moores University",,holding,,,53.4,-2.98,holdings
+place:asc-1997-champaign-urbana,Place,"ASC 1997, Champaign-Urbana",,conference,,,40.12,-88.24,1997
+place:asc-2001-university-of-british-columbia-vancouver,Place,"ASC 2001, University of British Columbia, Vancouver",,conference,,,49.26,-123.25,2001
+place:asc-2002-university-of-california-santa-cruz,Place,"ASC 2002, University of California, Santa Cruz",,conference,,,37.0,-122.06,2002
+place:asc-2003-university-of-vienna,Place,"ASC 2003, University of Vienna",,conference,,,48.213,16.36,2003
+place:asc-2004-toronto,Place,"ASC 2004, Toronto",,conference,,,43.65,-79.38,2004
+place:asc-2005-washington-dc,Place,"ASC 2005, Washington DC",,conference,,,38.9,-77.04,2005
+place:asc-2006-with-isss-sonoma-california,Place,"ASC 2006 (with ISSS), Sonoma, California",,conference,,,38.29,-122.46,2006
+place:asc-2007-champaign-urbana,Place,"ASC 2007, Champaign-Urbana",,conference,,,40.11,-88.22,2007
+place:asc-2008-champaign-urbana,Place,"ASC 2008, Champaign-Urbana",,conference,,,40.1,-88.21,2008
+place:asc-2009-the-evergreen-state-college-olympia,Place,"ASC 2009, The Evergreen State College, Olympia",,conference,,,47.07,-122.97,2009
+place:c-adm2010-rensselaer-troy-new-york,Place,"C:ADM2010, Rensselaer, Troy, New York",,conference,,,42.73,-73.68,2010
+place:asc-2011-conference-on-listening-richmond-indiana,Place,"ASC 2011 Conference on Listening, Richmond, Indiana",,conference,,,39.83,-84.89,2011
+place:asc-2012-asilomar-california,Place,"ASC 2012, Asilomar, California",,conference,,,36.62,-121.94,2012
+place:asc-2013-acting-learning-understanding-bolton-uk,Place,"ASC 2013 Acting – Learning – Understanding, Bolton, UK",,conference,,,53.58,-2.43,2013
+place:asc-2014-living-in-cybernetics-washington-dc,Place,"ASC 2014 Living in Cybernetics, Washington DC",,conference,,,38.91,-77.03,2014
+place:asc-2016-the-evergreen-state-college-olympia,Place,"ASC 2016, The Evergreen State College, Olympia",,conference,,,47.075,-122.975,2016
+place:asc-2019-acting-cybernetically-university-of-british-columbia-vancouver,Place,"ASC 2019 Acting Cybernetically, University of British Columbia, Vancouver",,conference,,,49.265,-123.245,2019
+place:asc-2026-conversational-confluences-ouro-preto,Place,"ASC 2026 Conversational Confluences, Ouro Preto",,conference,,,-20.39,-43.5,2026
+person:barbara-dawes-vogl,Person,Barbara Dawes Vogl,,,,,,,
+person:heinz-von-foerster,Person,Heinz von Foerster,,,,,,,
+person:ranulph-glanville,Person,Ranulph Glanville,,,,,,,
+person:humberto-maturana,Person,Humberto Maturana,,,,,,,
+person:randall-whitaker,Person,Randall Whitaker,,,,,,,
+person:stuart-a-umpleby,Person,Stuart A. Umpleby,,,,,,,
+person:frank-galuszka,Person,Frank Galuszka,,,,,,,
+person:laurence-d-richards,Person,Laurence D. Richards,,,,,,,
+person:thomas-fischer,Person,Thomas Fischer,,,,,,,
+person:louis-h-kauffman,Person,Louis H. Kauffman,,,,,,,
+person:allenna-leonard,Person,Allenna Leonard,,,,,,,
+person:lucas-pawlik,Person,Lucas Pawlik,,,,,,,
+person:gregory-bateson,Person,Gregory Bateson,,,,,,,
+person:h-b-gelatt,Person,H.B. Gelatt,,,,,,,
+person:klaus-krippendorff,Person,Klaus Krippendorff,,,,,,,
+person:bernard-scott,Person,Bernard Scott,,,,,,,
+person:harold-g-nelson,Person,Harold G. Nelson,,,,,,,
+person:lee-worden,Person,Lee Worden,,,,,,,
+person:mary-catherine-bateson,Person,Mary Catherine Bateson,,,,,,,
+person:robert-martin,Person,Robert Martin,,,,,,,
+person:alexander-riegler,Person,Alexander Riegler,,,,,,,
+person:anton-n-rosick,Person,Antonín Rosický,,,,,,,
+person:dai-griffiths,Person,Dai Griffiths,,,,,,,
+person:faisal-kadri,Person,Faisal Kadri,,,,,,,
+person:francisco-varela,Person,Francisco Varela,,,,,,,
+person:gary-boyd,Person,Gary Boyd,,,,,,,
+person:kathleen-forsythe,Person,Kathleen Forsythe,,,,,,,
+person:philip-baron,Person,Philip Baron,,,,,,,
+person:pille-bunnell,Person,Pille Bunnell,,,,,,,
+person:ray-ison,Person,Ray Ison,,,,,,,
+person:stafford-beer,Person,Stafford Beer,,,,,,,
+person:alan-stewart,Person,Alan Stewart,,,,,,,
+person:albert-m-ller,Person,Albert Müller,,,,,,,
+person:alexander-n-christakis,Person,Alexander N. Christakis,,,,,,,
+person:bill-seaman,Person,Bill Seaman,,,,,,,
+person:brent-cameron,Person,Brent Cameron,,,,,,,
+person:b-la-h-b-n-thy,Person,Béla H. Bánáthy,,,,,,,
+person:christine-welch,Person,Christine Welch,,,,,,,
+person:copthorne-macdonald,Person,Copthorne Macdonald,,,,,,,
+person:david-wright,Person,David Wright,,,,,,,
+person:donella-meadows,Person,Donella Meadows,,,,,,,
+person:elisabet-sahtouris,Person,Elisabet Sahtouris,,,,,,,
+person:elizabeth-simpson,Person,Elizabeth Simpson,,,,,,,
+person:ely-a-dorsey,Person,Ely A. Dorsey,,,,,,,
+person:erik-stolterman,Person,Erik Stolterman,,,,,,,
+person:francisco-j-garc-a-pe-alvo,Person,Francisco J. García-Peñalvo,,,,,,,
+person:fred-turner,Person,Fred Turner,,,,,,,
+person:gordon-pask,Person,Gordon Pask,,,,,,,
+person:herbert-br-n,Person,Herbert Brün,,,,,,,
+person:joanna-macy,Person,Joanna Macy,,,,,,,
+person:jose-dos-santos-cabral-filho,Person,Jose dos Santos Cabral Filho,,,,,,,
+person:karl-h-m-ller,Person,Karl H. Müller,,,,,,,
+person:kathleen-s-long,Person,Kathleen S. Long,,,,,,,
+person:manish-jain,Person,Manish Jain,,,,,,,
+person:margaret-mead,Person,Margaret Mead,,,,,,,
+person:margaret-wheatley,Person,Margaret Wheatley,,,,,,,
+person:mary-lou-collins,Person,Mary Lou Collins,,,,,,,
+person:mary-ellen-perley,Person,Mary-Ellen Perley,,,,,,,
+person:matthew-shapiro,Person,Matthew Shapiro,,,,,,,
+person:michael-hohl,Person,Michael Hohl,,,,,,,
+person:paul-pangaro,Person,Paul Pangaro,,,,,,,
+person:peter-bednar,Person,Peter Bednar,,,,,,,
+person:philip-lewin,Person,Philip Lewin,,,,,,,
+person:rosalind-armson,Person,Rosalind Armson,,,,,,,
+person:silvia-austerlic,Person,Silvia Austerlic,,,,,,,
+person:supriya-kummamuru,Person,Supriya Kummamuru,,,,,,,
+person:abhinav-bansal,Person,Abhinav Bansal,,,,,,,
+person:albert-mueller,Person,Albert Mueller,,,,,,,
+person:alexander-laszlo,Person,Alexander Laszlo,,,,,,,
+person:alfie-kohn,Person,Alfie Kohn,,,,,,,
+person:allan-randall,Person,Allan Randall,,,,,,,
+person:ana-paula-baltazar-dos-santos,Person,Ana Paula Baltazar dos Santos,,,,,,,
+person:ann-morrison,Person,Ann Morrison,,,,,,,
+person:anne-adams,Person,Anne Adams,,,,,,,
+person:antonio-rossin,Person,Antonio Rossin,,,,,,,
+person:arthur-e-wise,Person,Arthur E. Wise,,,,,,,
+person:ben-sweeting,Person,Ben Sweeting,,,,,,,
+person:beth-dempster,Person,Beth Dempster,,,,,,,
+person:bill-moyers,Person,Bill Moyers,,,,,,,
+person:bob-zielinski,Person,Bob Zielinski,,,,,,,
+person:bonita-deamicis,Person,Bonita DeAmicis,,,,,,,
+person:brian-hagy,Person,Brian Hagy,,,,,,,
+person:c-lynn-jenks,Person,C. Lynn Jenks,,,,,,,
+person:c-h-waddington,Person,C.H. Waddington,,,,,,,
+person:cadell-last,Person,Cadell Last,,,,,,,
+person:candace-pert,Person,Candace Pert,,,,,,,
+person:charles-fran-ois,Person,Charles François,,,,,,,
+person:chathurika-kannangara,Person,Chathurika Kannangara,,,,,,,
+person:christiane-m-herr,Person,Christiane M. Herr,,,,,,,
+person:christina-waters,Person,Christina Waters,,,,,,,
+person:christopher-alexander,Person,Christopher Alexander,,,,,,,
+person:clarissa-ai-ling-lee,Person,Clarissa Ai Ling Lee,,,,,,,
+person:claudia-jacques,Person,Claudia Jacques,,,,,,,
+person:claudia-l-amoreaux,Person,Claudia L'Amoreaux,,,,,,,
+person:congleton,Person,Congleton,,,,,,,
+person:corrina-mcfarlane,Person,Corrina McFarlane,,,,,,,
+person:craig-venter,Person,Craig Venter,,,,,,,
+person:cristiano-rodrigues,Person,Cristiano Rodrigues,,,,,,,
+person:cynthia-jordan,Person,Cynthia Jordan,,,,,,,
+person:dan-goodenough,Person,Dan Goodenough,,,,,,,
+person:darrell-arnold,Person,Darrell Arnold,,,,,,,
+person:david-a-schwerin,Person,David A. Schwerin,,,,,,,
+person:david-isaacs,Person,David Isaacs,,,,,,,
+person:david-james-duncan,Person,David James Duncan,,,,,,,
+person:deborah-l-johnson,Person,Deborah L. Johnson,,,,,,,
+person:deepak-chopra,Person,Deepak Chopra,,,,,,,
+person:delia-pembrey-macnamara,Person,Delia Pembrey MacNamara,,,,,,,
+person:dennis-kucinich,Person,Dennis Kucinich,,,,,,,
+person:dennis-sandow,Person,Dennis Sandow,,,,,,,
+person:doreen-steg,Person,Doreen Steg,,,,,,,
+person:eliana-herrera-vega,Person,Eliana Herrera-Vega,,,,,,,
+person:elizabeth-burris,Person,Elizabeth Burris,,,,,,,
+person:elizabeth-mcgregor,Person,Elizabeth McGregor,,,,,,,
+person:elizabeth-white,Person,Elizabeth White,,,,,,,
+person:ellen-p-bloomenstein,Person,Ellen P. Bloomenstein,,,,,,,
+person:english,Person,English,,,,,,,
+person:eric-w-cooper,Person,Eric W. Cooper,,,,,,,
+person:ern-reynolds,Person,Ern Reynolds,,,,,,,
+person:ernst-von-glasersfeld,Person,Ernst von Glasersfeld,,,,,,,
+person:eser-selen,Person,Eser Selen,,,,,,,
+person:essler,Person,Essler,,,,,,,
+person:f-l-rick-smyre,Person,F.L. (Rick) Smyre,,,,,,,
+person:fleurette-sweeney,Person,Fleurette Sweeney,,,,,,,
+person:frank-galea,Person,Frank Galea,,,,,,,
+person:fred-alan-wolf,Person,Fred Alan Wolf,,,,,,,
+person:gaetano-giordano,Person,Gaetano Giordano,,,,,,,
+person:gary-bloom,Person,Gary Bloom,,,,,,,
+person:geoffrey-heard,Person,Geoffrey Heard,,,,,,,
+person:geoffrey-vickers,Person,Geoffrey Vickers,,,,,,,
+person:george-lakoff,Person,George Lakoff,,,,,,,
+person:gerald-midgley,Person,Gerald Midgley,,,,,,,
+person:gordon-rowland,Person,Gordon Rowland,,,,,,,
+person:heinz-von-foerster-society,Person,Heinz von Foerster Society,,,,,,,
+person:hendrik-knoche,Person,Hendrik Knoche,,,,,,,
+person:hina-pendle,Person,Hina Pendle,,,,,,,
+person:hulstein,Person,Hulstein,,,,,,,
+person:inga-a-ivanova,Person,Inga A. Ivanova,,,,,,,
+person:j-rose,Person,J. Rose,,,,,,,
+person:james-gimian,Person,James Gimian,,,,,,,
+person:janet-d-fiero,Person,Janet D. Fiero,,,,,,,
+person:janet-eaton,Person,Janet Eaton,,,,,,,
+person:jason-hu,Person,Jason Hu,,,,,,,
+person:jeanette-bopry,Person,Jeanette Bopry,,,,,,,
+person:jeannie-oakes,Person,Jeannie Oakes,,,,,,,
+person:jeff-hutton,Person,Jeff Hutton,,,,,,,
+person:jennifer-kanary,Person,Jennifer Kanary,,,,,,,
+person:jennifer-wilby,Person,Jennifer Wilby,,,,,,,
+person:jerome-carson,Person,Jerome Carson,,,,,,,
+person:jerry-brown,Person,Jerry Brown,,,,,,,
+person:jher,Person,Jher,,,,,,,
+person:jim-faris,Person,Jim Faris,,,,,,,
+person:jixuan-hu,Person,Jixuan Hu,,,,,,,
+person:joe-miguez,Person,Joe Miguez,,,,,,,
+person:joel-r-primack,Person,Joel R. Primack,,,,,,,
+person:johann-van-der-merwe,Person,Johann van der Merwe,,,,,,,
+person:john-jack-miller,Person,John (Jack) Miller,,,,,,,
+person:john-brocklesby,Person,John Brocklesby,,,,,,,
+person:john-kineman,Person,John Kineman,,,,,,,
+person:john-zielinski,Person,John Zielinski,,,,,,,
+person:joseph-kruth,Person,Joseph Kruth,,,,,,,
+person:jos-isaias-badillo-pi-a,Person,José-Isaias Badillo-Piña,,,,,,,
+person:juanita-brown,Person,Juanita Brown,,,,,,,
+person:judith-lombardi,Person,Judith Lombardi,,,,,,,
+person:kathryn-soderholm,Person,Kathryn Soderholm,,,,,,,
+person:kay-a-norlander-case,Person,Kay A. Norlander-Case,,,,,,,
+person:kenneth-c-bausch,Person,Kenneth C. Bausch,,,,,,,
+person:kent-myers,Person,Kent Myers,,,,,,,
+person:kerry-miller,Person,Kerry Miller,,,,,,,
+person:lance-nizami,Person,Lance Nizami,,,,,,,
+person:lars-l-fgren,Person,Lars Löfgren,,,,,,,
+person:laura-sewall,Person,Laura Sewall,,,,,,,
+person:lawrence-j-fogel,Person,Lawrence J. Fogel,,,,,,,
+person:lee-gass,Person,Lee Gass,,,,,,,
+person:leo-steg,Person,Leo Steg,,,,,,,
+person:leslie-burm,Person,Leslie Burm,,,,,,,
+person:linda-darling-hammond,Person,Linda Darling-Hammond,,,,,,,
+person:lisa-lindberg,Person,Lisa Lindberg,,,,,,,
+person:loet-leydesdorff,Person,Loet Leydesdorff,,,,,,,
+person:ludmila-malinova,Person,Ludmila Malinova,,,,,,,
+person:ludwig-von-bertalanffy,Person,Ludwig von Bertalanffy,,,,,,,
+person:lynne-twist,Person,Lynne Twist,,,,,,,
+person:magnus-ramage,Person,Magnus Ramage,,,,,,,
+person:malcolm-parlett,Person,Malcolm Parlett,,,,,,,
+person:marcus-j-carney,Person,Marcus J. Carney,,,,,,,
+person:marcus-vinicius-bernardo,Person,Marcus Vinicius Bernardo,,,,,,,
+person:marion-brady,Person,Marion Brady,,,,,,,
+person:mark-johnson,Person,Mark Johnson,,,,,,,
+person:martha-kaufeldt,Person,Martha Kaufeldt,,,,,,,
+person:martin-reynolds,Person,Martin Reynolds,,,,,,,
+person:mary-parker-follett,Person,Mary Parker Follett,,,,,,,
+person:mateus-van-stralen,Person,Mateus van Stralen,,,,,,,
+person:mcginnis,Person,McGinnis,,,,,,,
+person:mercy-kesiena-clement-okooboh,Person,Mercy Kesiena Clement Okooboh,,,,,,,
+person:michael-lissack,Person,Michael Lissack,,,,,,,
+person:michael-mendizza,Person,Michael Mendizza,,,,,,,
+person:miguel-conde,Person,Miguel Conde,,,,,,,
+person:milton-mayer,Person,Milton Mayer,,,,,,,
+person:monika-broecker,Person,Monika Broecker,,,,,,,
+person:monique-giard,Person,Monique Giard,,,,,,,
+person:mordecai-ettinger,Person,Mordecai Ettinger,,,,,,,
+person:n-katherine-hayles,Person,N. Katherine Hayles,,,,,,,
+person:nancy-ellen-abrams,Person,Nancy Ellen Abrams,,,,,,,
+person:nancy-margulies,Person,Nancy Margulies,,,,,,,
+person:narayana-mandaleeka,Person,Narayana Mandaleeka,,,,,,,
+person:norbert-wiener,Person,Norbert Wiener,,,,,,,
+person:nozomu-ozaki,Person,Nozomu Ozaki,,,,,,,
+person:paul-schroeder,Person,Paul Schroeder,,,,,,,
+person:peter-tuddenham,Person,Peter Tuddenham,,,,,,,
+person:philip-a-wrigley,Person,Philip A. Wrigley,,,,,,,
+person:philip-wrigley,Person,Philip Wrigley,,,,,,,
+person:ralph-abraham,Person,Ralph Abraham,,,,,,,
+person:raman-kumar-agrawalla,Person,Raman Kumar Agrawalla,,,,,,,
+person:rebecca-solnit,Person,Rebecca Solnit,,,,,,,
+person:ricardo-uribe,Person,Ricardo Uribe,,,,,,,
+person:richard-feynman,Person,Richard Feynman,,,,,,,
+person:richard-jung,Person,Richard Jung,,,,,,,
+person:rick-charnes,Person,Rick Charnes,,,,,,,
+person:robert-muller,Person,Robert Muller,,,,,,,
+person:robert-vall-e,Person,Robert Vallée,,,,,,,
+person:rochelle-k-young,Person,Rochelle K. Young,,,,,,,
+person:rodney-e-donaldson,Person,Rodney E. Donaldson,,,,,,,
+person:ron-miller,Person,Ron Miller,,,,,,,
+person:sekhar-vadari,Person,Sekhar Vadari,,,,,,,
+person:sonia-macpherson,Person,Sonia MacPherson,,,,,,,
+person:stephen-sloan,Person,Stephen Sloan,,,,,,,
+person:susan-parenti,Person,Susan Parenti,,,,,,,
+person:sylvia-rabeler,Person,Sylvia Rabeler,,,,,,,
+person:sylvia-skok,Person,Sylvia Skok,,,,,,,
+person:s-ren-brier,Person,Søren Brier,,,,,,,
+person:ted-krueger,Person,Ted Krueger,,,,,,,
+person:thomas-wong,Person,Thomas Wong,,,,,,,
+person:tim-jachna,Person,Tim Jachna,,,,,,,
+person:timothy-g-reagan,Person,Timothy G. Reagan,,,,,,,
+person:tirumala-v,Person,Tirumala V,,,,,,,
+person:tom-scholte,Person,Tom Scholte,,,,,,,
+person:tricia-pearce,Person,Tricia Pearce,,,,,,,
+person:ulf-essler,Person,Ulf Essler,,,,,,,
+person:veronika-kauffmann,Person,Veronika Kauffmann,,,,,,,
+person:victor-jacono,Person,Victor Jacono,,,,,,,
+person:victor-macgill,Person,Victor MacGill,,,,,,,
+person:wenyu-zhang,Person,Wenyu Zhang,,,,,,,
+person:whitaker,Person,Whitaker,,,,,,,
+person:will-mcwhinney,Person,Will McWhinney,,,,,,,
+person:william-hedgepeth,Person,William Hedgepeth,,,,,,,
+person:yoshiharu-nakagawa,Person,Yoshiharu Nakagawa,,,,,,,
+person:check,Person,check),,,,,,,
+item:23b29486ef,Item,Ecology and Economics: A conversation with Elisabet Sahtouris,1998,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%201998%2001.pdf,false,,,PATTERNS 1998 01
+item:dfcae1c835,Item,From the Editor,1998,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%201998%2001.pdf,false,,,PATTERNS 1998 01
+item:84996ae4c8,Item,The Wisdom of Nature,1998,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%201998%2001.pdf,false,,,PATTERNS 1998 01
+item:408f3b7e26,Item,Statement of Purpose / Membership Information,1998,Notice,https://asc-cybernetics.org/publications/patterns/PATTERNS%201998%2001.pdf,false,,,PATTERNS 1998 01
+item:d423732755,Item,Reflections,1998,Column,https://asc-cybernetics.org/publications/patterns/PATTERNS%201998%2001.pdf,false,,,PATTERNS 1998 01
+item:a1a103ef2e,Item,A Designerly Way of Knowing: An Interview with Silvia Austerlic,1999,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2001.pdf,false,,,PATTERNS 1999 01
+item:2ab10dc473,Item,From the Editor,1999,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2001.pdf,false,,,PATTERNS 1999 01
+item:75932f7eb2,Item,Future Memory Mind Book,1999,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2001.pdf,false,,,PATTERNS 1999 01
+item:4d096b58b1,Item,Design Action and Systems Thinking,1999,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2001.pdf,false,,,PATTERNS 1999 01
+item:f5c03309d3,Item,Book Review,1999,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2001.pdf,false,,,PATTERNS 1999 01
+item:5f6819b122,Item,From the Facilitator,1999,Column,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2001.pdf,false,,,PATTERNS 1999 01
+item:3fd0b424d2,Item,Teacher Education: A Priority (excerpts from an interview with Humberto Maturana),1999,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:e4c4cf5420,Item,From the Editor,1999,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:c0615a2748,Item,von Foerster/Maturana,1999,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:bbebdf9c17,Item,Network News,1999,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:519760236a,Item,Reflections,1999,Column,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:937fcf6541,Item,Book Review,1999,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:e5acf87384,Item,Surf Notes,1999,Column,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:3d3e063096,Item,Gary Bloom Interview,1999,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:85a87ab6b4,Item,Book Reviews,1999,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:2548b862ae,Item,Zephyr Press Response,1999,Letter,https://asc-cybernetics.org/publications/patterns/PATTERNS%201999%2009.pdf,false,,,PATTERNS 1999 09
+item:223e93629c,Item,Leadership by Design: the Praxis of Intention,2001,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:6733ff8be2,Item,From the Editor,2001,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:a7044b18b6,Item,Knowledge Democracy,2001,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:3a7f76f43a,Item,Beyond the Deck Chairs,2001,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:bc7540f9e0,Item,Lugano Summer School,2001,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:601b98affd,Item,Humane Education,2001,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:ac96ddd92c,Item,We The People: Colliding World Views at the End of the Millennium (notes on a lecture by Jerry Brown),2001,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:689eba2ab4,Item,Surf Notes/Reflections,2001,Column,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:e4b39825ee,Item,Donella Meadows,2001,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%2005.pdf,false,,,PATTERNS 2001 05
+item:085fcf4ef6,Item,"Forget The Observer: The Presence, the Paradox and Self-Reference",2001,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%20July.pdf,false,,,PATTERNS 2001 July
+item:80de5cc7af,Item,From the Editor (ASC Conference),2001,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%20July.pdf,false,,,PATTERNS 2001 July
+item:482f21efe2,Item,Book Reviews,2001,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%20July.pdf,false,,,PATTERNS 2001 July
+item:e7c996d05c,Item,Margaret Mead Centennial,2001,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%20July.pdf,false,,,PATTERNS 2001 July
+item:345d0fefbf,Item,Announcements,2001,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%20July.pdf,false,,,PATTERNS 2001 July
+item:26ef726530,Item,More Books,2001,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%20July.pdf,false,,,PATTERNS 2001 July
+item:6fe98de617,Item,Surf Notes,2001,Column,https://asc-cybernetics.org/publications/patterns/PATTERNS%202001%20July.pdf,false,,,PATTERNS 2001 July
+item:e1c38413fc,Item,"The World Café: Creating the Future, one Conversation at a Time",2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2001.pdf,false,,,PATTERNS 2002 01
+item:84d1f50651,Item,From the Editor,2002,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2001.pdf,false,,,PATTERNS 2002 01
+item:40ed4a9a7f,Item,Seeds of Wholeness,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2001.pdf,false,,,PATTERNS 2002 01
+item:89a421bd75,Item,Cybernetics and Conversation,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2001.pdf,false,,,PATTERNS 2002 01
+item:9710425608,Item,The Music of Conversation,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2001.pdf,false,,,PATTERNS 2002 01
+item:1b7f2488fe,Item,Book Review,2002,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2001.pdf,false,,,PATTERNS 2002 01
+item:845e0bcf3b,Item,A New Wind Blowing?,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2001.pdf,false,,,PATTERNS 2002 01
+item:732a90e5e9,Item,Bertalanffy Conference,2002,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2001.pdf,false,,,PATTERNS 2002 01
+item:447e004a8b,Item,Just So Much And No More...,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:e0b0b80386,Item,From the Editor,2002,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:bb184feb89,Item,The Agora Project,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:4384512745,Item,Surf Notes,2002,Column,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:0109c2d895,Item,Announcements,2002,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:8dbdd795a1,Item,Call to Action,2002,Notice,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:ffb453803b,Item,Reflection on Positive Feedback,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:6b9033cedb,Item,Tools for Thought,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:7cca4b8bc0,Item,Communities of Learning,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2003.pdf,false,,,PATTERNS 2002 03
+item:9f0537ab5b,Item,Art and Cybernetics: A Conversation with Frank Galuszka,2002,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2005.pdf,false,,,PATTERNS 2002 05
+item:2f266db80a,Item,From the Editor,2002,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2005.pdf,false,,,PATTERNS 2002 05
+item:d4fe770665,Item,Three C's,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2005.pdf,false,,,PATTERNS 2002 05
+item:fc9b38aab4,Item,A Living Library,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2005.pdf,false,,,PATTERNS 2002 05
+item:35b4672ae0,Item,Design Judgement,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2005.pdf,false,,,PATTERNS 2002 05
+item:61a6d69814,Item,Announcements,2002,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2005.pdf,false,,,PATTERNS 2002 05
+item:32664aa493,Item,Mary Parker Follett Foundation,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2005.pdf,false,,,PATTERNS 2002 05
+item:6b34bb76de,Item,Making Boundary Judgements,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2007.pdf,false,,,PATTERNS 2002 07
+item:44129303dc,Item,From the Editor,2002,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2007.pdf,false,,,PATTERNS 2002 07
+item:6d2ede2a48,Item,Heinz von Foerster,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2007.pdf,false,,,PATTERNS 2002 07
+item:0d2487c561,Item,Unified Field,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2007.pdf,false,,,PATTERNS 2002 07
+item:9c6c02d628,Item,Book Announcement,2002,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2007.pdf,false,,,PATTERNS 2002 07
+item:fbc8c78971,Item,Shikshantar,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2007.pdf,false,,,PATTERNS 2002 07
+item:33b6582cc0,Item,Candace Pert,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2007.pdf,false,,,PATTERNS 2002 07
+item:475fec87ae,Item,Network News,2002,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2007.pdf,false,,,PATTERNS 2002 07
+item:d111b98e54,Item,The Many Manifestations of Heinz,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2009%2010.pdf,false,,,PATTERNS 2002 09 10
+item:8be816f714,Item,From the Editor (memorial issue for Heinz von Foerster),2002,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2009%2010.pdf,false,,,PATTERNS 2002 09 10
+item:e74661d602,Item,A Personal Story of My Encounter With Heinz von Foerster,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2009%2010.pdf,false,,,PATTERNS 2002 09 10
+item:4b92b9a8df,Item,Invitation to Dance: a Conversation with Heinz von Foerster,2002,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2009%2010.pdf,false,,,PATTERNS 2002 09 10
+item:d5af08d41e,Item,Heinz von Foerster's Position,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2009%2010.pdf,false,,,PATTERNS 2002 09 10
+item:3ecf28b308,Item,The Biological Computer Laboratory,2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2009%2010.pdf,false,,,PATTERNS 2002 09 10
+item:abe113d732,Item,"Heinz von Foerster, the scientist, the man",2002,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202002%2009%2010.pdf,false,,,PATTERNS 2002 09 10
+item:26b9f0a775,Item,The Evolution of Governance,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:c37a84c362,Item,From the Editor,2003,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:5ec8f29743,Item,Ralph Abraham,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:24a4e28591,Item,Book Review / Design,2003,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:a2446c13b9,Item,Book Review / Schools,2003,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:b0507620b5,Item,ISSS Crete Conference,2003,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:803216ae58,Item,"Robert Muller, World Dialogue",2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:a6171cf438,Item,Compassion Becomes Dissent,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:5dffedb52a,Item,Corrina McFarlane,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:0030c6227e,Item,Call for Public Dialogue,2003,Notice,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:946afae7c9,Item,Economic Perspective,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:e68834fe1d,Item,ASC Vienna Conference,2003,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2003%2004.pdf,false,,,PATTERNS 2003 03 04
+item:0fe06035e6,Item,Desiderata: That-which-is-desired (The Design Way),2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:21498e37c5,Item,From the Editor,2003,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:01f9f26dbe,Item,Designing PATTERNS,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:1df7d5a2fa,Item,Laws of Emergent Properties,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:b7f98b9bee,Item,Harvard Medical School on Emergence: How to Take This Course,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:51feed970e,Item,Humberto Maturana workshop,2003,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:d0f4640071,Item,Joanna Macy Despairwork,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:fb1a25fba2,Item,A Pattern Language,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:edcd4ad000,Item,Book Review: Richard Feynman,2003,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2008%2009.pdf,false,,,PATTERNS 2003 08 09
+item:4a84b032af,Item,A Taste of Systemics,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2011%2012.pdf,false,,,PATTERNS 2003 11 12
+item:468e6bdffa,Item,From the Editor (on the death of Béla Bánáthy),2003,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2011%2012.pdf,false,,,PATTERNS 2003 11 12
+item:c008f6fa8d,Item,Open University Systems Group,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2011%2012.pdf,false,,,PATTERNS 2003 11 12
+item:78c8410315,Item,ASC Membership News,2003,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2011%2012.pdf,false,,,PATTERNS 2003 11 12
+item:772b1fa3fd,Item,Pragmatic Cybernetics,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2011%2012.pdf,false,,,PATTERNS 2003 11 12
+item:40c5aece39,Item,Is Reality Complex?,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2011%2012.pdf,false,,,PATTERNS 2003 11 12
+item:1b2d995e63,Item,Response,2003,Letter,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2011%2012.pdf,false,,,PATTERNS 2003 11 12
+item:7bd7919d46,Item,The Freedom to Listen,2003,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202003%2011%2012.pdf,false,,,PATTERNS 2003 11 12
+item:68221811f0,Item,The Biology of Love: A Conversation,2004,Conversation,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:9d550b84f0,Item,From the Editor,2004,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:236ef8be8d,Item,Authentic Leadership,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:30524becf4,Item,C. Lynn Jenks,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:ee47e7b382,Item,Gary Boyd Synviabilism,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:3c564ce8b6,Item,Books: Matters of Consequence; The Great Adventure,2004,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:5ce28596f7,Item,Rodney E. Donaldson,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:28ff5c8c81,Item,Book Announcements,2004,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:25412dccf1,Item,Gregory Bateson Centennial,2004,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2001%2002.pdf,false,,,PATTERNS 2004 01 02
+item:41488c9a03,Item,SelfDesign Learning Community: Nurturing Lifelong Learning,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:06e0ec1160,Item,From the Editor,2004,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:8d69a1d002,Item,The Cybernetic Influence,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:228277a334,Item,A Structure of Freedom,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:1292f22227,Item,Gregory Bateson Centennial,2004,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:a4a43922a9,Item,"ASC Conference, Toronto",2004,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:4af33ec6d7,Item,Book Announcements,2004,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:6b952546c7,Item,ISSS 2004 Conference,2004,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:dc2e277830,Item,ISI/ACC Conversation,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2003%2004.pdf,false,,,PATTERNS 2004 03 04
+item:5b9c5e44b0,Item,Deep Understanding: Wisdom for an Integral Age,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:82570be914,Item,Citizens' Movements (guest editorial),2004,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:14113810eb,Item,Reflections,2004,Column,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:ac2dcdf21c,Item,Design Culture,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:e476697c1b,Item,WWW Dept. of Peace,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:41094f23bf,Item,Wounded Knee Youth,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:8ba35a2dc6,Item,Let's Talk America,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:817643f75d,Item,Unfolding Learning Societies,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:00482af966,Item,Sir Geoffrey Vickers,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2005%2006.pdf,false,,,PATTERNS 2004 05 06
+item:4489a38aad,Item,"Propaganda, Dirty Tricks and The Erosion of Democracy",2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2007%2008%2009.pdf,false,,,PATTERNS 2004 07 08 09
+item:8a72524035,Item,From the Editor,2004,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2007%2008%2009.pdf,false,,,PATTERNS 2004 07 08 09
+item:4a07b19d18,Item,They Thought They Were Free,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2007%2008%2009.pdf,false,,,PATTERNS 2004 07 08 09
+item:8e6c68f32c,Item,Book Reviews,2004,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2007%2008%2009.pdf,false,,,PATTERNS 2004 07 08 09
+item:2cd6eee4fb,Item,American Society for Cybernetics: Gregory Bateson,2004,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2007%2008%2009.pdf,false,,,PATTERNS 2004 07 08 09
+item:76f8abda8a,Item,Knowing-In-Action,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2007%2008%2009.pdf,false,,,PATTERNS 2004 07 08 09
+item:c694246070,Item,Stories of Self-Organization,2004,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202004%2007%2008%2009.pdf,false,,,PATTERNS 2004 07 08 09
+item:3fc4f28af5,Item,A Reflection on the Schiavo Case from a Cybernetic Perspective,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:1643037d3b,Item,From the Editor,2005,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:94b6d206ce,Item,Circularity in Nature & Politics,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:ba641f2c1f,Item,Re-Generation Lounge,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:0118cd1bc3,Item,ASC 2005 Conference,2005,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:ba95019ec3,Item,Community Conversations,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:f453afdabe,Item,E-Maps,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:fd29444a19,Item,Book Reviews: Norbert Wiener; The World Café,2005,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:8bd213a113,Item,H.B. Gelatt,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:e3cd8682f8,Item,Grandmothers' Building,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:b46376fe3a,Item,A New Age of Peace,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Spring_Summer.pdf,false,,,PATTERNS 2005 Spring_Summer
+item:2c5954a7da,Item,Keep the Space for Conversation Open,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:00fee79ffc,Item,From the Editor,2005,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:08c9cae41b,Item,9/11 and the Sport of God,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:b6d1979d92,Item,Learning and Sustainability,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:e7d9801fe7,Item,What the Bleep Do We Know? Ask Dr. Quantum! A User's Guide to Your Universe,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:29ff09dd60,Item,9/11 and the Heart of the World,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:d88dd60ec4,Item,Limericks,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:b696a2719f,Item,Fire in the South,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:cf36dc4c36,Item,New PATTERNS Statement,2005,Notice,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Fall.pdf,false,,,PATTERNS 2005 Fall
+item:f24a2c03fd,Item,"The Theatre of the Body. Masculinities: Gender, Art and Popular Culture",2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:5cf4f84820,Item,From the Editor,2005,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:5c410ae598,Item,Book Reviews: Ecological Thinking; George Lakoff,2005,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:7ee0ef0db3,Item,Biological Computer Lab,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:32650ad08e,Item,American Society for Cybernetics,2005,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:9046158958,Item,Robert Martin,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:52511538b6,Item,Metaphors of the Future,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:6cdd8dacdb,Item,Marion Brady,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:13f10d9cda,Item,Complexity and Public Policy,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:f5ed964136,Item,Publications,2005,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:ba276be8dc,Item,Trivializing Our Children,2005,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202005%20Winter.pdf,false,,,PATTERNS 2005 Winter
+item:e62e96253c,Item,Ranulph Glanville: A Conversation,2006,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:b3b2fc02b6,Item,From the Editor,2006,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:955d3a56e6,Item,The Road Never Traveled,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:fee8c59e41,Item,Book Review,2006,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:2b518e8f51,Item,Learning to Be Evolution,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:5d7f25b93c,Item,Stafford Beer,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:93189fcb79,Item,American Society for Cybernetics,2006,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:be5f7bb31f,Item,In Memory: Doreen and Leo Steg,2006,Obituary,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:57873569c6,Item,Humberto Maturana,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:1533f73d97,Item,True Power,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:31234f921b,Item,U.S. Department of Peace,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Spring_Summer.pdf,false,,,PATTERNS 2006 Spring_Summer
+item:1bf31c43f7,Item,Victory Reveals Itself,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:7b7629c316,Item,From the Editor,2006,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:6ccc13b2b0,Item,Global Community,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:2da6667e70,Item,Department of Peace,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:fc0165bb59,Item,Frank Galea,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:98540e0dae,Item,New Year Greetings,2006,Notice,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:7d1ee26b45,Item,N. Katherine Hayles,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:b5377e09cc,Item,H.B. Hidden Observer,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:a4c0878102,Item,American Society for Cybernetics,2006,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:78b9c728c8,Item,ISSS 50th Conference,2006,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:f5f81bbfce,Item,Lou Kauffman Boundaries,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:77b8444172,Item,21st Century Agoras,2006,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202006%20Winter.pdf,false,,,PATTERNS 2006 Winter
+item:5a46cc656c,Item,Education as a Way of Listening: A conversation with Robert Martin,2007,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:f704162970,Item,From the Editor,2007,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:84811e64f4,Item,Cybernetics at Illinois,2007,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:aa724e1f30,Item,An Unfinished Revolution,2007,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:d5b90664b6,Item,Brief History of the BCL,2007,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:49ec5e680f,Item,The Biological Computer Lab,2007,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:d83be10e19,Item,The ASC Conference,2007,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:39604235ff,Item,Reflections on Now Activism,2007,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:b8c8b7de68,Item,ASC News and Announcements,2007,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:d35d5f7762,Item,Definition of Cybernetics,2007,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Spring_Summer.pdf,false,,,PATTERNS 2007 Spring_Summer
+item:1b8171abc6,Item,The Battle of The Bulge: The Obesity Epidemic as a Pathogenic System,2007,Article,,true,,,PATTERNS 2007 Fall
+item:dfc95ce623,Item,From the Editor,2007,Editorial,,true,,,PATTERNS 2007 Fall
+item:ccd114c450,Item,Towards a Future We Desire?,2007,Article,,true,,,PATTERNS 2007 Fall
+item:a1aed00fed,Item,The Cybernetics of Sanity,2007,Article,,true,,,PATTERNS 2007 Fall
+item:1fffb626f4,Item,Paskian Art Research,2007,Article,,true,,,PATTERNS 2007 Fall
+item:b4e66f915c,Item,Margaret Mead,2007,Article,,true,,,PATTERNS 2007 Fall
+item:70df1fecb3,Item,ASC News,2007,News,,true,,,PATTERNS 2007 Fall
+item:a7a8980547,Item,Dancing With Demons: Pathogenic Problem Solving,2007,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Winter.pdf,false,,,PATTERNS 2007 Winter
+item:abc7a68dad,Item,From the Editor,2007,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Winter.pdf,false,,,PATTERNS 2007 Winter
+item:2e4798dddb,Item,Quantum Comedy,2007,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Winter.pdf,false,,,PATTERNS 2007 Winter
+item:215b80f470,Item,Book Review,2007,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Winter.pdf,false,,,PATTERNS 2007 Winter
+item:7b5011eb3b,Item,"American Society for Cybernetics (ASC Conference, Urbana, 29 March - 1 April 2007)",2007,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202007%20Winter.pdf,false,,,PATTERNS 2007 Winter
+item:d5f734ec3c,Item,From the Editor,2008,Editorial,,true,,,PATTERNS 2008 Spring
+item:95f4ad15f3,Item,"How Can We Trust Each Other? Changing the Terms for Public Trust of People, Corporations and the State (Foundation 2020 workshop, Brioni, 2004)",2008,Article,,true,,,PATTERNS 2008 Spring
+item:e5b5aece6a,Item,What's On My Mind,2008,Column,,true,,,PATTERNS 2008 Spring
+item:e35eb5e950,Item,Embodying Change,2008,Article,,true,,,PATTERNS 2008 Spring
+item:d8eebb9e34,Item,Heinz the Third,2008,Article,,true,,,PATTERNS 2008 Spring
+item:86291722de,Item,Gordon Pask,2008,Article,,true,,,PATTERNS 2008 Spring
+item:ea204d8b66,Item,Embodied Dialogue,2008,Article,,true,,,PATTERNS 2008 Spring
+item:ae9fe2f789,Item,A Bedtime Story,2008,Article,,true,,,PATTERNS 2008 Spring
+item:c138dfd247,Item,ASC News,2008,News,,true,,,PATTERNS 2008 Spring
+item:4d2445071b,Item,From the Editors,2008,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Fall.pdf,false,,,PATTERNS 2008 Fall
+item:a4d6ad2270,Item,Onion Rings You Cannot See and a Theremin I Cannot Play,2008,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Fall.pdf,false,,,PATTERNS 2008 Fall
+item:0fbeb015a8,Item,Passage Works,2008,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Fall.pdf,false,,,PATTERNS 2008 Fall
+item:32524c3497,Item,Education/Transformation,2008,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Fall.pdf,false,,,PATTERNS 2008 Fall
+item:074b2c7879,Item,ASC News,2008,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Fall.pdf,false,,,PATTERNS 2008 Fall
+item:d95ebed2ec,Item,From the Editor,2008,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Winter.pdf,false,,,PATTERNS 2008 Winter
+item:63cc5a6a99,Item,Spirituality and Cybernetics: A Conversation with Rev. Deborah L. Johnson,2008,Interview,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Winter.pdf,false,,,PATTERNS 2008 Winter
+item:ab5e41120d,Item,Book Review,2008,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Winter.pdf,false,,,PATTERNS 2008 Winter
+item:689ee201fb,Item,Craig Venter,2008,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Winter.pdf,false,,,PATTERNS 2008 Winter
+item:d771f3fa2c,Item,Deepak Chopra,2008,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Winter.pdf,false,,,PATTERNS 2008 Winter
+item:d7a4f42648,Item,Evolving Perspectives,2008,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Winter.pdf,false,,,PATTERNS 2008 Winter
+item:3ff8be3aef,Item,Tea and Butterflies,2008,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Winter.pdf,false,,,PATTERNS 2008 Winter
+item:e0d840ac52,Item,ASC News,2008,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202008%20Winter.pdf,false,,,PATTERNS 2008 Winter
+item:69db8f48f1,Item,From the Editors,2009,Editorial,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:c22ecb96e0,Item,"Cybernetics, Ecology and Global Social Movements (introductory essay)",2009,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:8a00002263,Item,Online Social Movements,2009,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:0f22ea0ec3,Item,World Social Forum,2009,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:a51d1b22d1,Item,Democratic Experiments in Argentina,2009,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:9891be7b10,Item,Liberatory Economics,2009,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:43b6214adc,Item,Democratic Experiments in the Globalization Protest,2009,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:98319a2312,Item,Transforming Vicious Cycles into Virtuous: Healing Trauma and Opening Doors to Social Change,2009,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:49d50d3f7e,Item,Creating Criminals,2009,Article,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:9b3f0dede6,Item,Book Review: Fred Turner,2009,Book review,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:75ca599138,Item,ASC News,2009,News,https://asc-cybernetics.org/publications/patterns/PATTERNS%202009%20Winter.pdf,false,,,PATTERNS 2009 Winter
+item:a5638ca160,Item,Wiener Gold Medal citation: Charles François (2007),2007,Wiener Gold Medal,https://web.archive.org/web/2012/http://www.asc-cybernetics.org/organization/awards/Francois.pdf,false,,,Awards
+item:6dd14d3cb8,Item,Wiener Gold Medal citation: Laurence D. Richards (2007),2007,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Richards.pdf,false,,,Awards
+item:559f0141f4,Item,Wiener Gold Medal citation: Pille Bunnell (2007),2007,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Bunnell.pdf,false,,,Awards
+item:291b78dabd,Item,Wiener Gold Medal citation: Stuart A. Umpleby (2007),2007,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Umpleby.pdf,false,,,Awards
+item:6f62833d62,Item,Comments on receiving the 2008 Wiener Medal,2008,Award,https://asc-cybernetics.org/2008/HM-08WienerComments.pdf,false,,,Awards
+item:4609e4f32d,Item,McCulloch Award citation: Alexander Riegler (2008),2008,McCulloch Award,https://asc-cybernetics.org/organization/awards/Riegler.pdf,false,,,Awards
+item:a5eb14610b,Item,McCulloch Award citation: Søren Brier (2008),2008,McCulloch Award,https://asc-cybernetics.org/organization/awards/Brier.pdf,false,,,Awards
+item:244bc60045,Item,Wiener Gold Medal citation: Francisco Varela (2008),2008,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Varela.pdf,false,,,Awards
+item:53f26e7700,Item,Wiener Gold Medal citation: Humberto Maturana (2008),2008,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Maturana.pdf,false,,,Awards
+item:25700346b4,Item,Wiener Gold Medal citation: Lars Löfgren (2008),2008,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Lofgren.pdf,false,,,Awards
+item:79dc7ac574,Item,Wiener Gold Medal citation: Ricardo Uribe (2008),2008,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Uribe.pdf,false,,,Awards
+item:92f8b2adca,Item,Wiener Gold Medal citation: Richard Jung (2008),2008,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Jung.pdf,false,,,Awards
+item:2d3d92c7c0,Item,McCulloch Award citation: Thomas Fischer (2011),2011,McCulloch Award,https://asc-cybernetics.org/organization/awards/Fischer_McCulloch.pdf,false,,,Awards
+item:d8022846b2,Item,Special Award citation: Randall Whitaker (2011),2011,Special Award,https://asc-cybernetics.org/organization/awards/Whitaker_Special.pdf,false,,,Awards
+item:8359adaa96,Item,Wiener Gold Medal citation: Mary Catherine Bateson (2011),2011,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Bateson_Wiener.pdf,false,,,Awards
+item:71d091bbd9,Item,Wiener Gold Medal citation: Robert Vallée (2011),2011,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Vallee_Wiener.pdf,false,,,Awards
+item:eaf15c9b45,Item,McCulloch Award citation: Susan Parenti (2012),2012,McCulloch Award,https://asc-cybernetics.org/organization/awards/Parenti_McCulloch.pdf,false,,,Awards
+item:4a26fadd9e,Item,McCulloch Award citation: Bernard Scott (2013),2013,McCulloch Award,https://asc-cybernetics.org/organization/awards/Scott_McCulloch.pdf,false,,,Awards
+item:a03588b2a2,Item,McCulloch Award citation: Heinz von Foerster Society (2013),2013,McCulloch Award,https://asc-cybernetics.org/organization/awards/HvF_society_McCulloch.pdf,false,,,Awards
+item:3e08670c63,Item,McCulloch Award citation: Allenna Leonard (2014),2014,McCulloch Award,https://asc-cybernetics.org/organization/awards/Leonard_McCulloch.pdf,false,,,Awards
+item:655fcbcd42,Item,McCulloch Award citation: Jennifer Wilby (2014),2014,McCulloch Award,https://asc-cybernetics.org/organization/awards/Wilby_McCulloch.pdf,false,,,Awards
+item:eae7f00586,Item,McCulloch Award citation: Paul Pangaro (2014),2014,McCulloch Award,https://asc-cybernetics.org/organization/awards/Pangaro_McCulloch.pdf,false,,,Awards
+item:7b43286589,Item,McCulloch Award citation: Randall Whitaker (2014),2014,McCulloch Award,https://asc-cybernetics.org/organization/awards/Whitaker_McCulloch.pdf,false,,,Awards
+item:b452c7edcd,Item,Special Award citation: Hulstein (2014),2014,Special Award,https://asc-cybernetics.org/organization/awards/Hulstein_Special.pdf,false,,,Awards
+item:00331939d3,Item,Special Award citation: Ranulph Glanville (2014),2014,Special Award,https://asc-cybernetics.org/organization/awards/Glanville_Special.pdf,false,,,Awards
+item:ef448cdcaf,Item,Wiener Gold Medal citation: Louis H. Kauffman (2014),2014,Wiener Gold Medal,https://asc-cybernetics.org/organization/awards/Kauffman_Wiener.pdf,false,,,Awards
+item:41f516ace4,Item,Ernst von Glasersfeld Award page (page title mislabeled as Lewin 2002),,Award,https://asc-cybernetics.org/organization/awards/EvGAward.htm,false,,,Awards
+item:174c6c6d76,Item,ASC Newsletter (file name suggests November 1999),1999,ASC News,https://asc-cybernetics.org/organization/news-1199.html,false,,,News
+item:9f7e7af3aa,Item,ASC Newsletter (file name suggests September 1999),1999,ASC News,https://asc-cybernetics.org/organization/news-999.html,false,,,News
+item:1444279a89,Item,ASC activity report (file name suggests July 1999),1999,ASC News,,true,,,News
+item:7292cc254d,Item,ASC Newsletter (page titled March 2000; file name suggests October 2000),2000,ASC News,,true,,,News
+item:f565b20eb4,Item,"ASC Newsletter, March 2000",2000,ASC News,,true,,,News
+item:6ef01dc4ba,Item,"Member letter, January 2000 (page title reads ""January 200"")",2000,ASC News,https://asc-cybernetics.org/organization/memletter.htm,false,,,News
+item:13a8f66f5f,Item,"ASC Newsletter, January 2001",2001,ASC News,https://asc-cybernetics.org/organization/news-0101.htm,false,,,News
+item:47aee2ebf6,Item,"ASC Newsletter, March 2002",2002,ASC News,,true,,,News
+item:850d7510fc,Item,"ASC newsletter, 30 April 2007",2007,ASC News,,true,,,News
+item:4325363159,Item,"ASC newsletter, 25 October 2008",2008,ASC News,,true,,,News
+item:37950402f8,Item,"ASC newsletter / members letter, 9 July 2009",2009,ASC News,,true,,,News
+item:1c73517034,Item,ASC 2001 Conference Abstract: Alan Stewart,2001,Abstract,https://asc-cybernetics.org/2001/ab01Stewart.htm,false,,,Conferences
+item:57d878f9d8,Item,ASC 2001 Conference Abstract: Allenna Leonard,2001,Abstract,https://asc-cybernetics.org/2001/ab01Leonard.htm,false,,,Conferences
+item:d1c3e61e02,Item,ASC 2001 Conference Abstract: Antonín Rosicky,2001,Abstract,https://asc-cybernetics.org/2001/ab01Rosicky.htm,false,,,Conferences
+item:37f51b1c8c,Item,ASC 2001 Conference Abstract: Beth Dempster,2001,Abstract,https://asc-cybernetics.org/2001/ab01Dempster.htm,false,,,Conferences
+item:2a8e2d7d77,Item,ASC 2001 Conference Abstract: Brent Cameron,2001,Abstract,https://asc-cybernetics.org/2001/ab01Cameron.htm,false,,,Conferences
+item:af1deceb6f,Item,ASC 2001 Conference Abstract: Dennis Sandow,2001,Abstract,https://asc-cybernetics.org/2001/ab01Sandow.htm,false,,,Conferences
+item:0538091546,Item,ASC 2001 Conference Abstract: Elizabeth White,2001,Abstract,https://asc-cybernetics.org/2001/ab01White.htm,false,,,Conferences
+item:50721e200b,Item,ASC 2001 Conference Abstract: Ely A. Dorsey,2001,Abstract,https://asc-cybernetics.org/2001/ab01Dorsey.htm,false,,,Conferences
+item:37350fbe21,Item,ASC 2001 Conference Abstract: English and McGinnis,2001,Abstract,https://asc-cybernetics.org/2001/ab01EnglishMcGinnis.htm,false,,,Conferences
+item:73fa4131cd,Item,ASC 2001 Conference Abstract: Fleurette Sweeney,2001,Abstract,https://asc-cybernetics.org/2001/ab01Sweeney.htm,false,,,Conferences
+item:3feb9990ba,Item,ASC 2001 Conference Abstract: Frank Galuszka,2001,Abstract,https://asc-cybernetics.org/2001/ab01Galuszka1.htm,false,,,Conferences
+item:5f29d2c67e,Item,ASC 2001 Conference Abstract: Frank Galuszka,2001,Abstract,https://asc-cybernetics.org/2001/ab01Galuszka2.htm,false,,,Conferences
+item:7112340010,Item,ASC 2001 Conference Abstract: Gaetano Giordano,2001,Abstract,https://asc-cybernetics.org/2001/ab01Giordano.htm,false,,,Conferences
+item:9925435960,Item,ASC 2001 Conference Abstract: Gary Boyd,2001,Abstract,https://asc-cybernetics.org/2001/ab01Boyd.htm,false,,,Conferences
+item:5a0d6e8a50,Item,ASC 2001 Conference Abstract: Janet D. Fiero,2001,Abstract,https://asc-cybernetics.org/2001/ab01Fiero.htm,false,,,Conferences
+item:ca2e65c888,Item,ASC 2001 Conference Abstract: Jason Hu-Ji-Xuan,2001,Abstract,https://asc-cybernetics.org/2001/ab01Hu.htm,false,,,Conferences
+item:d20ad7c1bd,Item,ASC 2001 Conference Abstract: Jeanette Bopry,2001,Abstract,https://asc-cybernetics.org/2001/ab01Bopry.htm,false,,,Conferences
+item:c904cbdd70,Item,ASC 2001 Conference Abstract: Joe Miguez and Tricia Pearce,2001,Abstract,https://asc-cybernetics.org/2001/ab01MiguezPearce.htm,false,,,Conferences
+item:1991c8206a,Item,ASC 2001 Conference Abstract: John Brocklesby,2001,Abstract,https://asc-cybernetics.org/2001/ab01Brocklesby.htm,false,,,Conferences
+item:e9a43c9780,Item,ASC 2001 Conference Abstract: Judith Lombardi,2001,Abstract,https://asc-cybernetics.org/2001/ab01Lombardi.htm,false,,,Conferences
+item:08fe747339,Item,ASC 2001 Conference Abstract: Larry Richards,2001,Abstract,https://asc-cybernetics.org/2001/ab01Richards.htm,false,,,Conferences
+item:e3a0ab6e03,Item,ASC 2001 Conference Abstract: Lee Gass,2001,Abstract,https://asc-cybernetics.org/2001/ab01Gass.htm,false,,,Conferences
+item:b8654861bc,Item,ASC 2001 Conference Abstract: Louis H. Kauffman,2001,Abstract,https://asc-cybernetics.org/2001/ab01Kauffman.htm,false,,,Conferences
+item:0138c29ba2,Item,ASC 2001 Conference Abstract: Mary Lou Collins,2001,Abstract,https://asc-cybernetics.org/2001/ab01Collins.htm,false,,,Conferences
+item:7b2004450d,Item,ASC 2001 Conference Abstract: Mary-Ellen Perley,2001,Abstract,https://asc-cybernetics.org/2001/ab01Perley.htm,false,,,Conferences
+item:bb999d747d,Item,ASC 2001 Conference Abstract: Monique Giard,2001,Abstract,https://asc-cybernetics.org/2001/ab01Giard.htm,false,,,Conferences
+item:1029963818,Item,ASC 2001 Conference Abstract: Philip Lewin,2001,Abstract,https://asc-cybernetics.org/2001/ab01Lewin.htm,false,,,Conferences
+item:fe2b8b3131,Item,ASC 2001 Conference Abstract: Philip Wrigley,2001,Abstract,https://asc-cybernetics.org/2001/ab01Wrigley.htm,false,,,Conferences
+item:88d876efb8,Item,ASC 2001 Conference Abstract: Randall Whitaker,2001,Abstract,https://asc-cybernetics.org/2001/ab01Whitaker.htm,false,,,Conferences
+item:8f52f14bb4,Item,ASC 2001 Conference Abstract: Rosalind Armson and Ray Ison,2001,Abstract,https://asc-cybernetics.org/2001/ab01ArmsIson.htm,false,,,Conferences
+item:c4d08ce111,Item,ASC 2001 Conference Abstract: Sonia MacPherson,2001,Abstract,https://asc-cybernetics.org/2001/ab01MacPherson.htm,false,,,Conferences
+item:0b4d8d7e32,Item,ASC 2001 Conference Abstract: Stephen Sloan,2001,Abstract,https://asc-cybernetics.org/2001/ab01Sloan.htm,false,,,Conferences
+item:764eb5338d,Item,ASC 2001 Conference Abstract: Stuart A. Umpleby,2001,Abstract,https://asc-cybernetics.org/2001/ab01Umpleby.htm,false,,,Conferences
+item:76b33abfee,Item,ASC 2001 Conference Abstract: Whitaker & Essler,2001,Abstract,https://asc-cybernetics.org/2001/ab01WhitEssl.htm,false,,,Conferences
+item:1062fe7af0,Item,ASC 2001 Conference Accomodation Page,2001,Conference page,,true,,,Conferences
+item:01e6acefe7,Item,ASC 2001 Conference Location Page,2001,Conference page,https://asc-cybernetics.org/2001/loc.htm,false,,,Conferences
+item:610c6061df,Item,ASC 2001 Conference Remaining Human,2001,Conference page,https://asc-cybernetics.org/2001/remain.htm,false,,,Conferences
+item:e9f7d9ba9b,Item,ASC 2001 Conference Short Courses,2001,Conference page,https://asc-cybernetics.org/2001/short.htm,false,,,Conferences
+item:bef533975a,Item,ASC: 2001 Conference: Online Proceedings,2001,Conference page,https://asc-cybernetics.org/2001/papers.htm,false,,,Conferences
+item:8bc16346a5,Item,American Society for Cybernetics - 2001 Conference Abstracts,2001,Conference page,https://asc-cybernetics.org/2001/abstracts.htm,false,,,Conferences
+item:b26d4e6dc0,Item,American Society for Cybernetics - 2001 Conference Main Page,2001,Conference page,https://asc-cybernetics.org/2001/index.htm,false,,,Conferences
+item:a90de294d9,Item,American Society for Cybernetics - 2001 Conference Preliminary Schedule,2001,Conference page,https://asc-cybernetics.org/2001/preag.htm,false,,,Conferences
+item:349ec1ab7d,Item,"ASC 2001 Conference Paper: Alan Stewart, PhD",2001,Conference paper,,true,,,Conferences
+item:24c00c99f4,Item,ASC 2001 Conference Paper: Antonín Rosicky,2001,Conference paper,,true,,,Conferences
+item:679dc1aa6a,Item,ASC 2001 Conference Paper: Dr. Ely A. Dorsey,2001,Conference paper,,true,,,Conferences
+item:e9d8b9cb43,Item,ASC 2001 Conference Paper: Frank Galuszka,2001,Conference paper,https://asc-cybernetics.org/2001/Galuszka.htm,false,,,Conferences
+item:dc54854de3,Item,ASC 2001 Conference Paper: Larry Richards,2001,Conference paper,,true,,,Conferences
+item:29ac42504d,Item,ASC 2001 Conference Paper: Mary Lou Collins,2001,Conference paper,https://asc-cybernetics.org/2001/Collins.htm,false,,,Conferences
+item:1809481d5c,Item,ASC 2001 Conference Paper: Mary-Ellen Perley,2001,Conference paper,,true,,,Conferences
+item:f5557b7219,Item,ASC 2001 Conference Paper: Philip A. Wrigley,2001,Conference paper,,true,,,Conferences
+item:d223b07f53,Item,ASC 2001 Conference Paper: Randall Whitaker,2001,Conference paper,https://asc-cybernetics.org/2001/Whitaker.htm,false,,,Conferences
+item:ce1fcd8ea5,Item,ASC 2001 Conference Paper: Randall Whitaker & Ulf Essler,2001,Conference paper,,true,,,Conferences
+item:10f1cb1335,Item,ASC 2001 Conference Paper: Rosalind Armson & Ray Ison,2001,Conference paper,,true,,,Conferences
+item:0880f61a7f,Item,ASC 2001 Conference Paper: Stuart A. Umpleby,2001,Conference paper,https://asc-cybernetics.org/2001/Umpleby.htm,false,,,Conferences
+item:754c486829,Item,Remaining Human Forum: Maturana,2001,Conference session,https://asc-cybernetics.org/2001/RH-Maturana.htm,false,,,Conferences
+item:3e426fca34,Item,American Society for Cybernetics - 2002 Conference Legacy Page,2002,Conference page,https://asc-cybernetics.org/2002/index.htm,false,,,Conferences
+item:2d6a3c9dc3,Item,American Society for Cybernetics - 2002 Conference Main Page,2002,Conference page,,true,,,Conferences
+item:ed61059e9c,Item,ASC 2002 Conference Contribution: David Wright,2002,Conference paper,,true,,,Conferences
+item:0ef5c607f5,Item,ASC 2002 Conference Contribution: Ern Reynolds,2002,Conference paper,https://asc-cybernetics.org/2002/reynolds.htm,false,,,Conferences
+item:1147487653,Item,ASC 2002 Conference Contribution: Frank Galuszka,2002,Conference paper,https://asc-cybernetics.org/2002/galuszka.htm,false,,,Conferences
+item:1f650a2ac0,Item,ASC 2002 Conference Contribution: Jim Faris,2002,Conference paper,https://asc-cybernetics.org/2002/faris.htm,false,,,Conferences
+item:2ee4b5aa8d,Item,ASC 2002 Conference Contribution: Larry Richards,2002,Conference paper,https://asc-cybernetics.org/2002/richards.htm,false,,,Conferences
+item:94338accd5,Item,ASC 2002 Conference Contribution: Paul Schroeder,2002,Conference paper,https://asc-cybernetics.org/2002/schroeder.htm,false,,,Conferences
+item:cebe90dc70,Item,ASC 2002 Conference Contribution: Philip Lewin,2002,Conference paper,,true,,,Conferences
+item:9121925cfd,Item,ASC 2002 Conference Contribution: Randall Whitaker,2002,Conference paper,https://asc-cybernetics.org/2002/whitaker.htm,false,,,Conferences
+item:713a6b682a,Item,ASC 2002 Conference Contribution: Will McWhinney,2002,Conference paper,https://asc-cybernetics.org/2002/mcwhinney.htm,false,,,Conferences
+item:3f615ddfab,Item,2002 conference registration form,2002,Form,,true,,,Conferences
+item:3f615ddfab-2,Item,2002 conference registration form,2002,Form,,true,,,Conferences
+item:cbe2849220,Item,ASC 2003 Conference / Part I: Presenters,2003,Conference page,,true,,,Conferences
+item:d8ce8e1332,Item,ASC 2003 Conference: Hotel Information,2003,Conference page,,true,,,Conferences
+item:bca662b747,Item,ASC 2003 Conference: Program,2003,Conference page,https://asc-cybernetics.org/2003/program.htm,false,,,Conferences
+item:80f423c52f,Item,American Society for Cybernetics - 2003 Conference Main Page,2003,Conference page,,true,,,Conferences
+item:286987e315,Item,"Art in Rhythm (supporting program, in German)",2003,Conference page,https://asc-cybernetics.org/2003/artinrhythm.htm,false,,,Conferences
+item:80bd7439a8,Item,Evening program (in German),2003,Conference page,https://asc-cybernetics.org/2003/eveningprogram.htm,false,,,Conferences
+item:1aa0117f0a,Item,2003 conference registration form,2003,Form,,true,,,Conferences
+item:a79c688089,Item,ASC 2004 Conference - Programme,2004,Conference page,https://asc-cybernetics.org/2004/04programme.htm,false,,,Conferences
+item:f3f2d87d71,Item,ASC 2004 Conference - Schedule / Itinerary,2004,Conference page,https://asc-cybernetics.org/2004/04schedule.htm,false,,,Conferences
+item:77066be22c,Item,American Society for Cybernetics - 2004 Conference Main Page,2004,Conference page,,true,,,Conferences
+item:c06f278baf,Item,Legacy Page: ASC 2004 Conference,2004,Conference page,https://asc-cybernetics.org/2004/index.htm,false,,,Conferences
+item:d63229194c,Item,"A (Cybernetic) Musing: Control, Variety and Addiction",2004,Conference paper,,true,,,Conferences
+item:e8bb5e6f4a,Item,"A (Cybernetic) Musing: Control, Variety and Addiction (web version)",2004,Conference paper,https://asc-cybernetics.org/2004/glanvillepaper.htm,false,,,Conferences
+item:87623c292b,Item,Soul Viability Improvement through Cybersystemic Modelling and Conversation,2004,Conference paper,https://asc-cybernetics.org/2004/boyd.pdf,false,,,Conferences
+item:0edd353025,Item,Presentation slides (PowerPoint),2004,Conference slides,https://asc-cybernetics.org/2004/congleton.ppt,false,,,Conferences
+item:a0e9f94225,Item,"Slides: A (Cybernetic) Musing: Control, Variety and Addiction",2004,Conference slides,https://asc-cybernetics.org/2004/glanvilleslides.pdf,false,,,Conferences
+item:a88f4973f6,Item,2004 conference registration form,2004,Form,,true,,,Conferences
+item:a39e942fa2,Item,American Society for Cybernetics - 2005 Conference Main Page,2005,Conference page,https://asc-cybernetics.org/2005/05formatspecs.htm,false,,,Conferences
+item:cdad2e50a8,Item,American Society for Cybernetics - 2005 Conference Main Page,2005,Conference page,https://asc-cybernetics.org/2005/index.htm,false,,,Conferences
+item:cc349dbf2a,Item,American Society for Cybernetics - 2007 Conference Main Page,2007,Conference page,,true,,,Conferences
+item:845e337f0f,Item,American Society for Cybernetics - 2008 Conference Main Page,2008,Conference page,,true,,,Conferences
+item:33b6ed9367,Item,American Society for Cybernetics - 2008 Conference Main Page,2008,Conference page,https://asc-cybernetics.org/2008/index.htm,false,,,Conferences
+item:76e188c047,Item,Conference contribution,2008,Conference paper,,true,,,Conferences
+item:9b58c135b3,Item,Doctoral panel statements (page titled as Krippendorff contribution),2008,Conference paper,,true,,,Conferences
+item:b912c3362d,Item,My Cybernetics: Cybernetics' Value to Me,2008,Conference session,https://asc-cybernetics.org/2008/MYCYB-2.htm,false,,,Conferences
+item:31ec94c3a5,Item,"My Cybernetics: Description of ""My Cybernetics""",2008,Conference session,https://asc-cybernetics.org/2008/MYCYB-3.htm,false,,,Conferences
+item:eebf19ed66,Item,My Cybernetics: How I Found Cybernetics,2008,Conference session,https://asc-cybernetics.org/2008/MYCYB-1.htm,false,,,Conferences
+item:a7bf9a33b0,Item,American Society for Cybernetics - 2009 Conference Main Page,2009,Conference page,,true,,,Conferences
+item:98be0556da,Item,"C:ADM2010: Cybernetics: Art, Design, Mathematics",2010,Conference page,https://asc-cybernetics.org/2010/index.html,false,,,Conferences
+item:445b3ea001,Item,"2011 ASC Conference on Listening, Richmond, Indiana, 9–15 August 2011",2011,Conference page,,true,,,Conferences
+item:6a06a40244,Item,2012 ASC Conference: An Ecology of Ideas,2012,Site page,https://asc-cybernetics.org/2012,false,,,Conferences
+item:50fa916752,Item,2013 ASC Conference: Acting – Learning – Understanding,2013,Conference page,https://asc-cybernetics.org/2013,false,,,Conferences
+item:e45a9e5265,Item,2014 ASC Conference: Living in Cybernetics (home page only; full site in WordPress sitemap),2014,Conference page,https://asc-cybernetics.org/2014,false,,,Conferences
+item:3d71e6fb9d,Item,ASC2016: Action and Reflection: The Individual and the Collective (home page),2016,Conference page,https://asc-cybernetics.org/2016,false,,,Conferences
+item:a934856f8f,Item,10th Macy Conference Group Photo,,History & foundations,https://asc-cybernetics.org/foundations/history/Macy10Photo.htm,false,,,Foundations
+item:226d6f0ae1,Item,Summary: The Macy Conferences,,History & foundations,https://asc-cybernetics.org/foundations/history/MacySummary.htm,false,,,Foundations
+item:c0b96e33ea,Item,The Macy Conference Attendees,,History & foundations,https://asc-cybernetics.org/foundations/history/MacyPeople.htm,false,,,Foundations
+item:08e5d20ed6,Item,ASC: Foundations: ASC GLOSSARY,,History & foundations,https://asc-cybernetics.org/foundations/ASCGlossary.htm,false,,,Foundations
+item:118d0152d6,Item,ASC: Foundations: Cybernetics' Lexicon,,History & foundations,https://asc-cybernetics.org/foundations/lexicon.htm,false,,,Foundations
+item:d16459820f,Item,ASC: Foundations: Defining 'Cybernetics',,History & foundations,https://asc-cybernetics.org/foundations/definitions.htm,false,,,Foundations
+item:968bf3e173,Item,ASC: Foundations: History of Cybernetics,,History & foundations,https://asc-cybernetics.org/foundations/history.htm,false,,,Foundations
+item:486142eb58,Item,ASC: Foundations: History of Cybernetics,,History & foundations,https://asc-cybernetics.org/foundations/history2.htm,false,,,Foundations
+item:5cf4ce7a1b,Item,ASC: Foundations: History of Cybernetics,,History & foundations,https://asc-cybernetics.org/foundations/history3.htm,false,,,Foundations
+item:f39c1bc230,Item,ASC: Foundations: History: Timeline,,History & foundations,https://asc-cybernetics.org/foundations/timeline.htm,false,,,Foundations
+item:2bb94b6640,Item,ASC: Foundations: Notable Cyberneticians,,History & foundations,https://asc-cybernetics.org/foundations/cyberneticians.htm,false,,,Foundations
+item:9a9b466b53,Item,ASC: Foundations: Tutorials on Cybernetics,,History & foundations,https://asc-cybernetics.org/foundations/tutorials.htm,false,,,Foundations
+item:23e7cb8e2d,Item,Cybernetics Prehistory: 'Communication',,History & foundations,https://asc-cybernetics.org/foundations/history/prehistory5.htm,false,,,Foundations
+item:109691a73b,Item,Cybernetics Prehistory: A Systemic Perspective,,History & foundations,https://asc-cybernetics.org/foundations/history/prehistory3.htm,false,,,Foundations
+item:e86b07801e,Item,Cybernetics Prehistory: Circularity,,History & foundations,https://asc-cybernetics.org/foundations/history/prehistory7.htm,false,,,Foundations
+item:5bb28881ab,Item,Cybernetics Prehistory: Mechanism and Formalism,,History & foundations,https://asc-cybernetics.org/foundations/history/prehistory4.htm,false,,,Foundations
+item:9d477987a8,Item,Cybernetics Prehistory: Regulation in Human Affairs,,History & foundations,https://asc-cybernetics.org/foundations/history/prehistory2.htm,false,,,Foundations
+item:097d9a266f,Item,Cybernetics Prehistory: Regulation in Machines,,History & foundations,https://asc-cybernetics.org/foundations/history/prehistory1.htm,false,,,Foundations
+item:9837f57ae4,Item,Cybernetics Prehistory: System-Specific 'Epistemology',,History & foundations,https://asc-cybernetics.org/foundations/history/prehistory6.htm,false,,,Foundations
+item:60f941a864,Item,History of Cybernetics: Additional References,,History & foundations,https://asc-cybernetics.org/foundations/historyrefs.htm,false,,,Foundations
+item:b3865ce523,Item,Dr. Lawrence J. Fogel: legacy webpage,,Legacy page,https://asc-cybernetics.org/foundations/Fogel.htm,false,,,Foundations
+item:178168f287,Item,"1997 ASC Conference, Champaign-Urbana (Cyberfest97), 8–12 March",1997,Conference,,true,,,About the ASC
+item:2df37af1ad,Item,Toward a Dynamic Partnering Cosmology,1997,Conference paper,https://asc-cybernetics.org/organization/urbana/tdpc.html,false,,,About the ASC
+item:7abefa21f2,Item,What is a Number?,1997,Conference paper,https://asc-cybernetics.org/organization/urbana/wian.html,false,,,About the ASC
+item:9506de2d2c,Item,"About ASC: Events (Conferences, etc.)",,Conference page,https://asc-cybernetics.org/organization/events.htm,false,,,About the ASC
+item:747322bebd,Item,Obituary of Herbert Brün,,Obituary,https://asc-cybernetics.org/organization/obherb.htm,false,,,About the ASC
+item:f42701d16b,Item,About ASC: Administration,,Society page,https://asc-cybernetics.org/organization/organization.htm,false,,,About the ASC
+item:5a7c578641,Item,About ASC: Affiliations,,Society page,https://asc-cybernetics.org/organization/affiliations.htm,false,,,About the ASC
+item:e2be95d7d9,Item,About ASC: Awards,,Society page,https://asc-cybernetics.org/organization/awards.htm,false,,,About the ASC
+item:143afb4a5c,Item,About ASC: By-Laws (the 'Constitution'),,Society page,https://asc-cybernetics.org/organization/constitution.htm,false,,,About the ASC
+item:b6b6e97a03,Item,About ASC: History,,Society page,https://asc-cybernetics.org/organization/history.htm,false,,,About the ASC
+item:01b70d6cc9,Item,About ASC: Membership,,Society page,,true,,,About the ASC
+item:3ba1e92d21,Item,About ASC: Nominations for Fellows and Awards,,Society page,,true,,,About the ASC
+item:3e681b90df,Item,About ASC: Officer Position Descriptions,,Society page,https://asc-cybernetics.org/organization/officerduties.htm,false,,,About the ASC
+item:c720df1776,Item,About ASC: Officers,,Society page,,true,,,About the ASC
+item:22403d04ad,Item,About ASC: Trustees,,Society page,https://asc-cybernetics.org/organization/trustees.htm,false,,,About the ASC
+item:bce5c3f88d,Item,American Society for Cybernetics - About the ASC visual,,Society page,https://asc-cybernetics.org/organization/index-visual.htm,false,,,About the ASC
+item:2e22f774a4,Item,American Society for Cybernetics - About the Newsletter Visual,,Society page,https://asc-cybernetics.org/organization/news-visual.htm,false,,,About the ASC
+item:c2a8f150f7,Item,American Society for Cybernetics - Newsletters,,Society page,https://asc-cybernetics.org/organization/news.htm,false,,,About the ASC
+item:9e303ad90e,Item,"Cybernetic, Volume 1 No. 1, Summer–Fall 1985",1985,Newsletter,https://asc-cybernetics.org/publications/cybernetic/cybernetic-volume1-no1-1985-ocr.pdf,false,,,Publications
+item:c262c0d48c,Item,"Continuing the Conversation (Bateson / Ideas in Cybernetics newsletters, compiled)",1985,Newsletter,,true,,,Publications
+item:33d7be7607,Item,A Dictionary of Cybernetics (date to check),1986,Publication,,true,,,Publications
+item:79c9e811cd,Item,Klaus Krippendorff — a Directory,,Publication,https://asc-cybernetics.org/publications/Krippendorff/Krippendorff_A_Directory_Linked.pdf,false,,,Publications
+item:13b9dc88df,Item,Stuart A. Umpleby — a Directory,,Publication,https://asc-cybernetics.org/publications/Umpleby/Umpleby_A_Directory_Linked.pdf,false,,,Publications
+item:46099bbc22,Item,ASC Bookstore order form,,Form,,true,,,Wavefront
+item:5d867bfda2,Item,ASC Wavefront: ASC Bookstore,,Wavefront page,,true,,,Wavefront
+item:cc930eb162,Item,ASC Wavefront: Archives Project,,Wavefront page,https://asc-cybernetics.org/wavefront/archives.htm,false,,,Wavefront
+item:ddc23b2f46,Item,ASC Wavefront: Contributions,,Wavefront page,https://asc-cybernetics.org/wavefront/contributions.htm,false,,,Wavefront
+item:a51d456a74,Item,ASC Wavefront: Contributions: Evil and Ethics,,Wavefront page,https://asc-cybernetics.org/wavefront/contributes/evil.htm,false,,,Wavefront
+item:bbba28896a,Item,ASC Wavefront: Contributions: Perspectives on Cybernetics,,Wavefront page,https://asc-cybernetics.org/wavefront/contributes/perspectives.htm,false,,,Wavefront
+item:05d0650ffe,Item,ASC Wavefront: Conversations,,Wavefront page,https://asc-cybernetics.org/wavefront/conversations.htm,false,,,Wavefront
+item:22019556af,Item,ASC Wavefront: Events,,Wavefront page,https://asc-cybernetics.org/wavefront/events.htm,false,,,Wavefront
+item:4eb9dab1e7,Item,ASC Wavefront: Publications,,Wavefront page,https://asc-cybernetics.org/wavefront/publications.htm,false,,,Wavefront
+item:521884c7c7,Item,ASC Wavefront: Videos,,Wavefront page,https://asc-cybernetics.org/wavefront/videos.htm,false,,,Wavefront
+item:cac9daa67d,Item,Analog and Digital,,Wavefront page,https://asc-cybernetics.org/wavefront/chats/anadig.htm,false,,,Wavefront
+item:612c70dcba,Item,ASC: Links: Educational Programs,,Conference page,,true,,,Links
+item:5e33961921,Item,ASC: Links: ASC Cyberneticians,,Links page,https://asc-cybernetics.org/links/cyberneticians.htm,false,,,Links
+item:bfda422e45,Item,ASC: Links: Centers & Institutes,,Links page,,true,,,Links
+item:6e22070cbe,Item,ASC: Links: Conversational Forums,,Links page,,true,,,Links
+item:a4fb71d476,Item,ASC: Links: Journals,,Links page,,true,,,Links
+item:4504d0a954,Item,ASC: Links: Organizations,,Links page,https://asc-cybernetics.org/links/organizations.htm,false,,,Links
+item:038e069be9,Item,ASC: Links: Relevant Webspaces,,Links page,https://asc-cybernetics.org/links/webspaces.htm,false,,,Links
+item:83ba361e5b,Item,ASC By-Laws Revision consultation,2009,Governance,https://asc-cybernetics.org/bylaws_consultation_2009/index.html,false,,,Site home
+item:826594c9a0,Item,American Society for Cybernetics - Index,,Site page,,true,,,Site home
+item:0f0559b4bf,Item,American Society for Cybernetics - NEWS,,Site page,https://asc-cybernetics.org/news.htm,false,,,Site home
+item:4693f715ca,Item,Current ASC home page (captured November 2026),,Site page,https://asc-cybernetics.org/index.html,false,,,Site home
+item:56bbee2b35,Item,"Home page visual (poems, stories and explanations)",,Site page,https://asc-cybernetics.org/index-visual.htm,false,,,Site home
+item:9c812155f3,Item,Patterns - The American Society for Cybernetics Newsletter,,Site page,https://asc-cybernetics.org/newsletter.htm,false,,,Site home
+item:8c0422d236,Item,2018 ASC Conference Schedule,2018,Document,https://asc-cybernetics.org/wp-content/uploads/2018/08/2018_ASC_Conference_Schedule.pdf,false,,,Current WordPress site (2016–now)
+item:3b01fe5be4,Item,ASC Tentative Conference Schedule,2017,Document,https://asc-cybernetics.org/wp-content/uploads/2017/08/ASC_Tentative_Conference_Schedule.pdf,false,,,Current WordPress site (2016–now)
+item:fcd073e62e,Item,ASC-Bookstore-Inventory-w-Phillip-G-2021,2023,Document,https://asc-cybernetics.org/wp-content/uploads/2023/03/ASC-Bookstore-Inventory-w-Phillip-G-2021.pdf,false,,,Current WordPress site (2016–now)
+item:349e056dcf,Item,Chat-GPT-4-7-November-2023,2023,Document,https://asc-cybernetics.org/wp-content/uploads/2023/11/Chat-GPT-4-7-November-2023.pdf,false,,,Current WordPress site (2016–now)
+item:d7c111a2df,Item,Frazer Frazer McCulloch,2016,Document,https://asc-cybernetics.org/wp-content/uploads/2016/07/Frazer_Frazer_McCulloch.pdf,false,,,Current WordPress site (2016–now)
+item:2c80ebfa82,Item,Glanville Wiener,2016,Document,https://asc-cybernetics.org/wp-content/uploads/2016/06/Glanville_Wiener.pdf,false,,,Current WordPress site (2016–now)
+item:d488b61055,Item,Reckmeyer Wiener,2016,Document,https://asc-cybernetics.org/wp-content/uploads/2016/07/Reckmeyer_Wiener.pdf,false,,,Current WordPress site (2016–now)
+item:2df705796e,Item,Trojan-Horses 2012 Contents-and-play-chapter,2024,Document,https://asc-cybernetics.org/wp-content/uploads/2024/12/Trojan-Horses_2012_Contents-and-play-chapter.pdf,false,,,Current WordPress site (2016–now)
+item:20b6171ad0,Item,Weston Wiener,2018,Document,https://asc-cybernetics.org/wp-content/uploads/2018/08/Weston_Wiener.pdf,false,,,Current WordPress site (2016–now)
+item:99c4312749,Item,- American Society for Cybernetics (ASC),,Web page,https://asc-cybernetics.org/2025-04-26-amc-circular-currents/,false,,,Current WordPress site (2016–now)
+item:774b198bf9,Item,- American Society for Cybernetics (ASC),2025,Web page,https://asc-cybernetics.org/amc/2025-04-26-amc-circular-currents/,false,,,Current WordPress site (2016–now)
+item:86302315f9,Item,2017,2016,Web page,https://asc-cybernetics.org/asc2017/,false,,,Current WordPress site (2016–now)
+item:1f2bdccd65,Item,2018,2017,Web page,,true,,,Current WordPress site (2016–now)
+item:1043e70fac,Item,2019,2019,Web page,https://asc-cybernetics.org/2019-2/,false,,,Current WordPress site (2016–now)
+item:0ff6917fba,Item,2026,2025,Web page,https://asc-cybernetics.org/2026-conference/,false,,,Current WordPress site (2016–now)
+item:b6e110321f,Item,About us,2014,Web page,https://asc-cybernetics.org/about/,false,,,Current WordPress site (2016–now)
+item:1bce23eaf6,Item,Activity,2013,Web page,https://asc-cybernetics.org/activity/,false,,,Current WordPress site (2016–now)
+item:503962ab57,Item,Affiliated Organizations,2016,Web page,https://asc-cybernetics.org/affiliated-institutions/,false,,,Current WordPress site (2016–now)
+item:10611e26e8,Item,Affiliated Publications,2016,Web page,https://asc-cybernetics.org/affiliated-publications/,false,,,Current WordPress site (2016–now)
+item:65ff47c3b5,Item,Albert Müller Obituary,2019,Web page,https://asc-cybernetics.org/albert-muller-obituary/,false,,,Current WordPress site (2016–now)
+item:2f4ebce645,Item,AMC WG,2025,Web page,https://asc-cybernetics.org/amc/,false,,,Current WordPress site (2016–now)
+item:d246685b0e,Item,American Society for Cybernetics (ASC),,Web page,https://asc-cybernetics.org/author/wp-asc-admin/,false,,,Current WordPress site (2016–now)
+item:1e44469d13,Item,American Society for Cybernetics (ASC),,Web page,https://asc-cybernetics.org/,false,,,Current WordPress site (2016–now)
+item:97d183a0a8,Item,American Society for Cybernetics at RSD14,2025,Web page,https://asc-cybernetics.org/events/rds14/,false,,,Current WordPress site (2016–now)
+item:7c3cc1e87a,Item,Annetta Pedretti 1954-2018,2022,Web page,https://asc-cybernetics.org/annetta-pedretti-1954-2018/,false,,,Current WordPress site (2016–now)
+item:65ffd3502f,Item,Archives,2021,Web page,https://asc-cybernetics.org/archives/,false,,,Current WordPress site (2016–now)
+item:ed8561b64a,Item,ASC 2017 Conference: Why Attend?,2017,Web page,https://asc-cybernetics.org/asc-2017-conference-why-attend/,false,,,Current WordPress site (2016–now)
+item:ecbd0ad76d,Item,ASC 2020 Global Conversation,2020,Web page,,true,,,Current WordPress site (2016–now)
+item:a3b317c4f4,Item,ASC 2020 Global Conversation – Session ASC00,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc00/,false,,,Current WordPress site (2016–now)
+item:1dbe94c91e,Item,ASC 2020 Global Conversation – Session ASC01,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc01/,false,,,Current WordPress site (2016–now)
+item:29df46b41b,Item,ASC 2020 Global Conversation – Session ASC02,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc02/,false,,,Current WordPress site (2016–now)
+item:c75c894640,Item,ASC 2020 Global Conversation – Session ASC03,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc03/,false,,,Current WordPress site (2016–now)
+item:5f9a6d5905,Item,ASC 2020 Global Conversation – Session ASC04,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc04/,false,,,Current WordPress site (2016–now)
+item:892159213d,Item,ASC 2020 Global Conversation – Session ASC05,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc05/,false,,,Current WordPress site (2016–now)
+item:e13a8682c8,Item,ASC 2020 Global Conversation – Session ASC06,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc06/,false,,,Current WordPress site (2016–now)
+item:0846526fa3,Item,ASC 2020 Global Conversation – Session ASC07,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc07/,false,,,Current WordPress site (2016–now)
+item:846797a3f4,Item,ASC 2020 Global Conversation – Session ASC08,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc08/,false,,,Current WordPress site (2016–now)
+item:90bf564032,Item,ASC 2020 Global Conversation – Session ASC09,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc09/,false,,,Current WordPress site (2016–now)
+item:3c453b01f8,Item,ASC 2020 Global Conversation – Session ASC10,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc10/,false,,,Current WordPress site (2016–now)
+item:aaa1f30b77,Item,ASC 2020 Global Conversation – Session ASC11,2020,Web page,https://asc-cybernetics.org/asc-2020-global-conversation-session-asc11/,false,,,Current WordPress site (2016–now)
+item:625f50dddc,Item,ASC 6#3,,Web page,https://asc-cybernetics.org/?page_id=2450,false,,,Current WordPress site (2016–now)
+item:23172c8b90,Item,ASC 6#3,2025,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/asc-63/,false,,,Current WordPress site (2016–now)
+item:4fbbbda402,Item,ASC Awards,2014,Web page,https://asc-cybernetics.org/awards/,false,,,Current WordPress site (2016–now)
+item:44ea7f6003,Item,ASC Awards,,Web page,https://asc-cybernetics.org/nominations/,false,,,Current WordPress site (2016–now)
+item:7955696aa6,Item,ASC By-Laws,2013,Web page,https://asc-cybernetics.org/by-laws/,false,,,Current WordPress site (2016–now)
+item:af99a7be95,Item,ASC Cyberneticians,2021,Web page,https://asc-cybernetics.org/asc-cyberneticians/,false,,,Current WordPress site (2016–now)
+item:323f964a32,Item,ASC Executive Board,2014,Web page,https://asc-cybernetics.org/executive-board/,false,,,Current WordPress site (2016–now)
+item:d149185c20,Item,ASC Speaker Series #2,2021,Web page,https://asc-cybernetics.org/asc-speaker-series-2/,false,,,Current WordPress site (2016–now)
+item:26457f474c,Item,ASC Speaker Series #3,2021,Web page,https://asc-cybernetics.org/asc-speaker-series-3/,false,,,Current WordPress site (2016–now)
+item:7ba91ad648,Item,ASC Speaker Series #4,2021,Web page,https://asc-cybernetics.org/asc-speaker-series-4/,false,,,Current WordPress site (2016–now)
+item:a3c2fce83f,Item,ASC Speaker Series #5,2021,Web page,https://asc-cybernetics.org/asc-speaker-series-5/,false,,,Current WordPress site (2016–now)
+item:a60258656e,Item,ASC Speaker Series #6,2021,Web page,https://asc-cybernetics.org/asc-speaker-series-6/,false,,,Current WordPress site (2016–now)
+item:40e46a5537,Item,ASC Trustees,2015,Web page,https://asc-cybernetics.org/trustees/,false,,,Current WordPress site (2016–now)
+item:ae25c778e1,Item,ASC60 checkout 1,2024,Web page,https://asc-cybernetics.org/asc60-checkout1/,false,,,Current WordPress site (2016–now)
+item:6b03b28c1d,Item,Books,2016,Web page,https://asc-cybernetics.org/books/,false,,,Current WordPress site (2016–now)
+item:da4b5c9ebe,Item,Calendar,2023,Web page,https://asc-cybernetics.org/calendar/,false,,,Current WordPress site (2016–now)
+item:d7925ab9f2,Item,"Circular Currents: Feedback, Intelligence, Emergent Systems",2025,Web page,https://asc-cybernetics.org/2025-04-26-amc-circular-currents2/,false,,,Current WordPress site (2016–now)
+item:fa0f51e1e1,Item,Conference,2017,Web page,https://asc-cybernetics.org/conference/,false,,,Current WordPress site (2016–now)
+item:4985b2379e,Item,Contact,2014,Web page,https://asc-cybernetics.org/contact/,false,,,Current WordPress site (2016–now)
+item:f6555a3fbe,Item,Cybernetic institutions,2026,Web page,https://asc-cybernetics.org/cybernetic-institutions/,false,,,Current WordPress site (2016–now)
+item:97d1d77490,Item,Cyberneticians,2021,Web page,https://asc-cybernetics.org/cyberneticians-directory/,false,,,Current WordPress site (2016–now)
+item:5d705c5c1f,Item,Cybernetics Study Group 2026,2026,Web page,https://asc-cybernetics.org/initiatives/asc-study-group-2026/,false,,,Current WordPress site (2016–now)
+item:a4ddc4ebf0,Item,Definitions,2016,Web page,https://asc-cybernetics.org/definitions/,false,,,Current WordPress site (2016–now)
+item:dcf9665035,Item,Design Contest for Margaret Mead Prize,2024,Web page,https://asc-cybernetics.org/mead-prize-contest/,false,,,Current WordPress site (2016–now)
+item:ed8b51dc73,Item,Event Details SS6#6,2026,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/event-details-ss66/,false,,,Current WordPress site (2016–now)
+item:5e15487d19,Item,Events,2021,Web page,https://asc-cybernetics.org/events/,false,,,Current WordPress site (2016–now)
+item:ac96138292,Item,History,2016,Web page,https://asc-cybernetics.org/asc-history/,false,,,Current WordPress site (2016–now)
+item:1a1517230f,Item,Humberto Maturana 1928 – 2021,2021,Web page,https://asc-cybernetics.org/humberto-maturana-1928-2021/,false,,,Current WordPress site (2016–now)
+item:433548cc51,Item,Initiatives,2025,Web page,https://asc-cybernetics.org/initiatives/,false,,,Current WordPress site (2016–now)
+item:12849b1d40,Item,ISSS2021,2021,Web page,https://asc-cybernetics.org/isss2021/,false,,,Current WordPress site (2016–now)
+item:caf74376b5,Item,Join,2016,Web page,,true,,,Current WordPress site (2016–now)
+item:6d4fc3cfa4,Item,Journals,2023,Web page,https://asc-cybernetics.org/journals/,false,,,Current WordPress site (2016–now)
+item:73a7b204c4,Item,Learning to Learn,2025,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/learning-to-learn/,false,,,Current WordPress site (2016–now)
+item:784cf88df1,Item,Living Archive,2026,Web page,https://asc-cybernetics.org/livingarchive/,false,,,Current WordPress site (2016–now)
+item:9ddd7d3a95,Item,Margaret Mead Prize to Norman O. Gunderson,2024,Web page,https://asc-cybernetics.org/margaret-mead-prize-to-norman-o-gunderson/,false,,,Current WordPress site (2016–now)
+item:cb9ca75030,Item,Members,2013,Web page,https://asc-cybernetics.org/members/,false,,,Current WordPress site (2016–now)
+item:774cd08de2,Item,NewMacyMeetings,2021,Web page,https://asc-cybernetics.org/newmacymeetings/,false,,,Current WordPress site (2016–now)
+item:e1e42b5ed6,Item,News,,Web page,https://asc-cybernetics.org/category/news/,false,,,Current WordPress site (2016–now)
+item:97a71ed221,Item,Online Library,2016,Web page,https://asc-cybernetics.org/online-library/,false,,,Current WordPress site (2016–now)
+item:3af005704d,Item,Opt-out preferences,2026,Web page,https://asc-cybernetics.org/opt-out-preferences/,false,,,Current WordPress site (2016–now)
+item:be36586764,Item,Past Events,2015,Web page,https://asc-cybernetics.org/past-events/,false,,,Current WordPress site (2016–now)
+item:e4e1351583,Item,Past Events,,Web page,https://asc-cybernetics.org/site/past-events/,false,,,Current WordPress site (2016–now)
+item:284cf34c19,Item,S6#5: Sharing What We Learned Along the Way,2026,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/s65-sharing-what-we-learned-along-the-way/,false,,,Current WordPress site (2016–now)
+item:4b7e4b1405,Item,Searchable Articles,2016,Web page,https://asc-cybernetics.org/searchable-articles/,false,,,Current WordPress site (2016–now)
+item:50f09bb98f,Item,Sitemap,2024,Web page,https://asc-cybernetics.org/sitemap/,false,,,Current WordPress site (2016–now)
+item:a133a6e5b5,Item,Social Media,2016,Web page,https://asc-cybernetics.org/social-networks/,false,,,Current WordPress site (2016–now)
+item:26e93a19e2,Item,Speaker Series Season 6#7,,Web page,https://asc-cybernetics.org/asc-speaker-series-6/speaker-series-season-67/,false,,,Current WordPress site (2016–now)
+item:b4c32a1592,Item,Speaker Series Season 6#7,2026,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-series-season-67/,false,,,Current WordPress site (2016–now)
+item:356062d044,Item,Speaker Series Season 6#8,2026,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-series-season-68/,false,,,Current WordPress site (2016–now)
+item:825701d8cf,Item,Speaker Series Season 6#9,2026,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-series-season-69/,false,,,Current WordPress site (2016–now)
+item:cf0edd1709,Item,Speaker Series Season 7#1,2026,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-series-season-71/,false,,,Current WordPress site (2016–now)
+item:e2df069db4,Item,Speaker Series Season 7#2,,Web page,https://asc-cybernetics.org/?page_id=2708,false,,,Current WordPress site (2016–now)
+item:a78f49f951,Item,Speaker Series Season 7#2,2026,Web page,https://asc-cybernetics.org/speaker-series-season-72/,false,,,Current WordPress site (2016–now)
+item:57d6e7618e,Item,Speaker Series Season 7#3,,Web page,https://asc-cybernetics.org/?page_id=2733,false,,,Current WordPress site (2016–now)
+item:c3ea7979c4,Item,Speaker Series Season 7#3,2026,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-series-season-73/,false,,,Current WordPress site (2016–now)
+item:0d162edc2b,Item,Speaker Series WG,2025,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/,false,,,Current WordPress site (2016–now)
+item:f038adb59e,Item,SpeakerSeries6-4,2025,Web page,https://asc-cybernetics.org/asc-speaker-series-6/speakerseries6-4/,false,,,Current WordPress site (2016–now)
+item:1cae404b2a,Item,Temp – awards check,2021,Web page,https://asc-cybernetics.org/temp-awards-check/,false,,,Current WordPress site (2016–now)
+item:593feeb9af,Item,Terms and Conditions,2026,Web page,https://asc-cybernetics.org/terms-and-conditions/,false,,,Current WordPress site (2016–now)
+item:3f654e1ed2,Item,The Appropriation of Autopoiesis in Architecture,2025,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/the-appropriation-of-autopoiesis-in-architecture/,false,,,Current WordPress site (2016–now)
+item:b55018e88b,Item,The field of cybernetics,2021,Web page,https://asc-cybernetics.org/the-field-of-cybernetics/,false,,,Current WordPress site (2016–now)
+item:cd28f99368,Item,Upcoming Events,2015,Web page,https://asc-cybernetics.org/upcoming-events/,false,,,Current WordPress site (2016–now)
+item:77ddffedef,Item,We remember,2022,Web page,https://asc-cybernetics.org/we-remember/,false,,,Current WordPress site (2016–now)
+item:027cd843f6,Item,WG Archives,2022,Web page,https://asc-cybernetics.org/wg-archives/,false,,,Current WordPress site (2016–now)
+item:f83806c6a3,Item,"What is a Laboratory, that Cybernetics need escape it?",2025,Web page,https://asc-cybernetics.org/initiatives/speaker-series-wg/what-is-a-laboratory-that-cybernetics-need-escape-it/,false,,,Current WordPress site (2016–now)
+item:d6dd80ec96,Item,WOSC 2021,2019,Web page,https://asc-cybernetics.org/wosc2021/,false,,,Current WordPress site (2016–now)
+item:9fc9b46274,Item,An Introduction and Explanation of the new By Laws proposed for the American Society for Cybernetics « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/2009/10/04/hello-world/comment-page-1/,false,,,2009 By-laws consultation
+item:cc7944ea36,Item,Article 0. Cybernetics « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-0-cybernetics/comment-page-1/,false,,,2009 By-laws consultation
+item:ee616dbb27,Item,Article 1. Name « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-1-name/comment-page-1/,false,,,2009 By-laws consultation
+item:bbe3508f11,Item,Article 10. Conflict Resolution « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-10-conflict-resolution/comment-page-1/,false,,,2009 By-laws consultation
+item:6976862557,Item,Article 11. By-Laws « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-11-by-laws/comment-page-1/,false,,,2009 By-laws consultation
+item:cf10835798,Item,Article 12. Board of Directors « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-12-board-of-directors/comment-page-1/,false,,,2009 By-laws consultation
+item:010ce7f825,Item,Article 2. Purposes « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-2-purposes/comment-page-1/,false,,,2009 By-laws consultation
+item:e27e13e595,Item,Article 3. Organs « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-3-organs/comment-page-1/,false,,,2009 By-laws consultation
+item:6a721a6c9a,Item,Article 4. Membership « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-4-membership/comment-page-1/,false,,,2009 By-laws consultation
+item:7113a56ade,Item,Article 5. Trustees « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-5-trustees/comment-page-1/,false,,,2009 By-laws consultation
+item:28e7c7ee66,Item,Article 6. Executive Board « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-6-executive-board/comment-page-1/,false,,,2009 By-laws consultation
+item:b12de2d442,Item,Article 7. Ombudspersons « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-7-ombudspersons/comment-page-1/,false,,,2009 By-laws consultation
+item:dc88b8e64b,Item,Article 8. Committees « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-8-committees/comment-page-1/,false,,,2009 By-laws consultation
+item:83fa08b2ac,Item,Article 9. Elections and Voting « ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/article-9-elections-and-voting/comment-page-1/,false,,,2009 By-laws consultation
+item:f90e97c364,Item,ASC By-Laws Revision,2009,Conference page,https://asc-cybernetics.org/bylaws_consultation_2009/,false,,,2009 By-laws consultation
+item:ffb40c573c,Item,ASC-Conf-Shuttle-Reservation-Information3,2011,Document,,true,,,"2011 Richmond, Indiana: Conference on Listening"
+item:86bde0d5bb,Item,Changing Cybernetics Transcripts,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/07/Changing_Cybernetics_Transcripts.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:720727d08a,Item,conference booklet,2011,Document,,true,,,"2011 Richmond, Indiana: Conference on Listening"
+item:d9378a08cc,Item,EvG Farewell to Objectivity,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/08/EvG_Farewell_to_Objectivity.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:a205ca69a2,Item,EvG Feedback Induction and Epistemology,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/08/EvG_Feedback_Induction_and_Epistemology.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:2979dded7b,Item,EvG The Conceptual Construction of Time,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/08/EvG_The_Conceptual_Construction_of_Time.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:3ac2786d07,Item,EvG The Incommensurability of Scientific and Poetic Knowledge,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/08/EvG_The_Incommensurability_of_Scientific_and_Poetic_Knowledge.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:aff34a6b24,Item,HvF Disorder Order Discovery or Invention,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/08/HvF_Disorder_Order_Discovery_or_Invention.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:0b936109e6,Item,HvF Doomsday,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/08/HvF_Doomsday.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:e450956508,Item,HvF Perception of the Future and the Future of Perception,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/08/HvF_Perception_of_the_Future_and_the_Future_of_Perception.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:83f8ab3e42,Item,HvF Responsibilities of Competence,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/08/HvF_Responsibilities_of_Competence.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:2c4cd1a338,Item,Ranulph Glanville on Listening,2011,Document,,true,,,"2011 Richmond, Indiana: Conference on Listening"
+item:5210e50d0e,Item,The Lost Art of Listening  Digest Sharon McLean,2011,Document,https://asc-cybernetics.org/2011/wp-content/uploads/2011/01/The_Lost_Art_of_Listening__Digest_Sharon_McLean.pdf,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:2c1381148b,Item,"2011 ASC Conference on Listening | Annual Conference – 9-15Aug2011 Richmond, Indiana, USA",2011,Conference page,,true,,,"2011 Richmond, Indiana: Conference on Listening"
+item:4795133e57,Item,"2011 ASC Conference on Listening | Annual Conference – 9-15Aug2011 Richmond, Indiana, USA | Page 2",2011,Conference page,https://asc-cybernetics.org/2011/index__page_id_xx_paged_2.html,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:ca7dc3d26e,Item,ASC Meeting,2011,Conference page,https://asc-cybernetics.org/2011/?p=107,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:de054fab1c,Item,August | 2011,2011,Conference page,https://asc-cybernetics.org/2011/index__m_201108.html,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:a5f29f0f1d,Item,August | 2011 | 2011 ASC Conference on Listening | Page 2,2011,Conference page,https://asc-cybernetics.org/2011/index__m_201108_paged_2.html,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:1baa942141,Item,Bradford Keeney,2011,Conference page,https://asc-cybernetics.org/2011/?p=388,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:46ae9011d1,Item,Bruno Louchouarn,2011,Conference page,https://asc-cybernetics.org/2011/?p=438,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:a850279da8,Item,Changing Cybernetics,2011,Conference page,https://asc-cybernetics.org/2011/?p=1493,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:705138fca0,Item,Conference Booklets,2011,Conference page,,true,,,"2011 Richmond, Indiana: Conference on Listening"
+item:cd5ef3d261,Item,Daniel Rosenberg,2011,Conference page,https://asc-cybernetics.org/2011/?p=796,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:5fff6720e6,Item,David M. Boje,2011,Conference page,https://asc-cybernetics.org/2011/?p=392,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:9e5b57a7fb,Item,Dinner and Oral Tradition,2011,Conference page,https://asc-cybernetics.org/2011/?p=1505,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:227240bc10,Item,Edith K. Ackermann,2011,Conference page,https://asc-cybernetics.org/2011/?p=401,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:cb13b18f1f,Item,Events,2011,Conference page,https://asc-cybernetics.org/2011/?p=1387,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:612bb16957,Item,Fee Payment,2011,Conference page,https://asc-cybernetics.org/2011/?p=74,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:bbb1218fd6,Item,Flo Conway and Jim Siegelman,2011,Conference page,https://asc-cybernetics.org/2011/?p=496,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:a64c123dfe,Item,Food+Drink,2011,Conference page,https://asc-cybernetics.org/2011/?p=297,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:331c204a85,Item,From Rosenblueth to Richmond: A Historical Review of Cybernetics,2011,Conference page,https://asc-cybernetics.org/2011/?p=1552,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:9ae63be11f,Item,Graham Barnes,2011,Conference page,https://asc-cybernetics.org/2011/?p=410,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:5a68160642,Item,Hugo Letiche,2011,Conference page,https://asc-cybernetics.org/2011/?p=396,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:5f5e06dac5,Item,Important Dates,2011,Conference page,https://asc-cybernetics.org/2011/?p=65,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:ed9c2a1b35,Item,International Advisors,2011,Conference page,https://asc-cybernetics.org/2011/?p=163,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:4a97748535,Item,Join Us,2011,Conference page,https://asc-cybernetics.org/2011/?p=69,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:bc51d62f12,Item,Julio Bermudez,2011,Conference page,https://asc-cybernetics.org/2011/?p=567,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:42b36e5859,Item,Make a Tie,2011,Conference page,https://asc-cybernetics.org/2011/?p=120,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:7acce1acf5,Item,Marcelo Pakman,2011,Conference page,https://asc-cybernetics.org/2011/?p=413,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:48cb75d6b4,Item,Mary Catherine Bateson’s note of thanks (and warning) to the ASC,2011,Conference page,https://asc-cybernetics.org/2011/?p=1571,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:82271b0260,Item,Michael Hohl’s Conference Notes,2011,Conference page,https://asc-cybernetics.org/2011/?p=1547,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:b5a0c01e00,Item,Michael Lissack,2011,Conference page,https://asc-cybernetics.org/2011/?p=432,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:06a550e895,Item,Organizers,2011,Conference page,https://asc-cybernetics.org/2011/?p=34,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:5a3219bb34,Item,Paper Presentations,2011,Conference page,https://asc-cybernetics.org/2011/?p=59,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:af57de1b75,Item,Paper Refereeing,2011,Conference page,https://asc-cybernetics.org/2011/?p=56,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:0aee3c2624,Item,Papers,2011,Conference page,https://asc-cybernetics.org/2011/?p=23,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:3b0c02f8d0,Item,Participants,2011,Conference page,https://asc-cybernetics.org/2011/?p=759,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:43e53c8f2d,Item,Participate,2011,Conference page,https://asc-cybernetics.org/2011/?p=25,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:73a7d23125,Item,Pauline Oliveros,2011,Conference page,https://asc-cybernetics.org/2011/?p=420,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:36e9164ae7,Item,Pauline Oliveros’ Dinner Speech,2011,Conference page,https://asc-cybernetics.org/2011/?p=1540,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:9aa8b1a8e0,Item,People,2011,Conference page,https://asc-cybernetics.org/2011/?p=21,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:dbd9aefc7d,Item,Performances,2011,Conference page,https://asc-cybernetics.org/2011/?p=519,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:dd886e9124,Item,Poolside singing with Pauline Oliveros,2011,Conference page,https://asc-cybernetics.org/2011/?p=1534,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:72043b5501,Item,Post-Conference Study,2011,Conference page,https://asc-cybernetics.org/2011/?p=114,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:5c5023da6a,Item,Prepared Works,2011,Conference page,https://asc-cybernetics.org/2011/?p=505,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:40d417bb23,Item,Presentation of Cybernetics of Cybernetics Competition Winners,2011,Conference page,https://asc-cybernetics.org/2011/?p=1501,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:af61e9f65a,Item,Proceedings,2011,Conference page,https://asc-cybernetics.org/2011/?p=61,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:9fb96343fd,Item,Public Conference,2011,Conference page,https://asc-cybernetics.org/2011/?p=105,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:208d02cf15,Item,Questions Arising from the Conference,2011,Conference page,https://asc-cybernetics.org/2011/?p=1542,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:456bb48132,Item,Remembering Ernst von Glasersfeld and Gary Boyd,2011,Conference page,https://asc-cybernetics.org/2011/?p=1520,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:d3e5acf2a5,Item,Resources,2011,Conference page,https://asc-cybernetics.org/2011/?p=170,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:cacbbbeb77,Item,Robert J. Martin,2011,Conference page,https://asc-cybernetics.org/2011/?p=596,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:945ae886c7,Item,Roger Malina,2011,Conference page,https://asc-cybernetics.org/2011/?p=427,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:5d3b4a7f17,Item,Roy Ascott,2011,Conference page,https://asc-cybernetics.org/2011/?p=379,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:aabd551435,Item,Stay Informed,2011,Conference page,https://asc-cybernetics.org/2011/?p=63,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:b475125bb0,Item,The ASC’s 2011 General Business Meeting,2011,Conference page,https://asc-cybernetics.org/2011/?p=1514,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:7497b2b94a,Item,Theme: Listening,2011,Conference page,https://asc-cybernetics.org/2011/?p=17,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:c0751c95b3,Item,Tourism,2011,Conference page,https://asc-cybernetics.org/2011/?p=377,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:440955acbf,Item,Transportation,2011,Conference page,,true,,,"2011 Richmond, Indiana: Conference on Listening"
+item:5d82376645,Item,Vincent Kenny,2011,Conference page,https://asc-cybernetics.org/2011/?p=474,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:fc0de49680,Item,Wednesday evening performances,2011,Conference page,https://asc-cybernetics.org/2011/?p=1531,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:2710965c5c,Item,Welcome to Richmond!,2011,Conference page,https://asc-cybernetics.org/2011/?p=1484,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:de0f3302a3,Item,Workshops,2011,Conference page,https://asc-cybernetics.org/2011/?p=312,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:4cf6830fb0,Item,Your Suggestions,2011,Conference page,https://asc-cybernetics.org/2011/?p=79,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:ff6cb7c3ce,Item,"Storytelling and listening: co-creating understandings (paper proposal, Christine Welch)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=873,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:d95e56fbcc,Item,"Listening to the Knowledge of the World Wide Web (paper proposal, Elizabeth McGregor)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=984,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:f41f995f4d,Item,"Comparing Regulators: The Homeostat vs. Multiplier Feedback (paper proposal, Faisal Kadri)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=919,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:df0f60bcaa,Item,"Finding no-one (paper proposal, Johann van der Merwe)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=1171,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:b1da12d96d,Item,"Difference-Making from a Cybernetic Perspective: The Role of Listening and Its Circularities (paper proposal, Larry Richards)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=948,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:a27ac1a941,Item,"Tie the Tie (paper proposal, Leslie Burm)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=969,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:b69f7973f3,Item,"Listening to the economy: The cybernetics of Risk (paper proposal, Mark Johnson)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=1363,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:8af4c09515,Item,"A conversation with my friend technology: A challenge to the status quo (paper proposal, Philip Baron)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=1052,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:50b6e2dd95,Item,"Cybernetics Framework for building a Listening Organization (paper proposal, Supriya Kummamuru)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=1130,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:4e22649341,Item,"Cybernetic Scrying: a painterly, “self-listening/else-watching,” spatial reasoning enhancement method (paper proposal, Sylvia Rabeler)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=1110,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:e5d279efe1,Item,"The Role of Listening and Non-Listening in the Formation of Organizational Hierarchies (paper proposal, Thomas Fischer)",2011,Paper proposal,https://asc-cybernetics.org/2011/?p=1140,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:83e06990d8,Item,Tim Jachna’s Paper Proposal,2011,Paper proposal,https://asc-cybernetics.org/2011/?p=1150,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:d81f1d850f,Item,Accommodation,2011,Practical,https://asc-cybernetics.org/2011/?p=77,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:1d3c4c07c3,Item,Conference Fees,2011,Practical,https://asc-cybernetics.org/2011/?p=72,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:aea74c6e7a,Item,Location+Venue,2011,Practical,https://asc-cybernetics.org/2011/?p=19,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:76e7d47e74,Item,Program,2011,Program,https://asc-cybernetics.org/2011/?p=9,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:a4e52e5106,Item,Pre-Conference Tutorials,2011,Program session,https://asc-cybernetics.org/2011/?p=110,false,,,"2011 Richmond, Indiana: Conference on Listening"
+item:51e4010a42,Item,Abstracts,2012,Abstracts,https://asc-cybernetics.org/2012/?p=177,false,,,"2012 Asilomar, California conference"
+item:0ec59f7846,Item,"Time, Cybernetics and Technology: Recursive Visualisation and the Overcoming of Abstraction",2012,Abstracts,https://asc-cybernetics.org/2012/?p=871,false,,,"2012 Asilomar, California conference"
+item:f0396bfc27,Item,"Too much Information! A Workshop on Current Developments in Visualisation, Real-time Web Apps and Alternatives to Cybernetic Abstraction",2012,Abstracts,https://asc-cybernetics.org/2012/?p=861,false,,,"2012 Asilomar, California conference"
+item:e756715901,Item,2012 ASC BIG Booklet,2012,Document,,true,,,"2012 Asilomar, California conference"
+item:17b9fa4c23,Item,AN ECOLOGY OF IDEAS small 51A2ZH,2012,Document,https://asc-cybernetics.org/2012/wp-content/uploads/2012/03/AN_ECOLOGY_OF_IDEAS_small_51A2ZH.pdf,false,,,"2012 Asilomar, California conference"
+item:e8175a47b0,Item,ASC BIG 2013 CFP1,2012,Document,https://asc-cybernetics.org/2012/wp-content/uploads/2012/04/ASC_BIG_2013_CFP1.pdf,false,,,"2012 Asilomar, California conference"
+item:6e5a0da17e,Item,Three Ideas to Consider Giving Up,2012,Document,https://asc-cybernetics.org/2012/wp-content/uploads/2012/07/Three_Ideas_to_Consider_Giving_Up.pdf,false,,,"2012 Asilomar, California conference"
+item:ac12e71139,Item,A Different Spin on Distinction,2012,Conference page,https://asc-cybernetics.org/2012/?p=547,false,,,"2012 Asilomar, California conference"
+item:238777d67e,Item,A Second Order Cybernetic View of Modern Capitalism,2012,Conference page,https://asc-cybernetics.org/2012/?p=569,false,,,"2012 Asilomar, California conference"
+item:b85c994b85,Item,Academic,2012,Conference page,https://asc-cybernetics.org/2012/?p=28,false,,,"2012 Asilomar, California conference"
+item:5d08e50633,Item,An Ecology of Artifacts in Language. Or: The Cybernetics of Discourse and the Discourse of Cybernetics,2012,Conference page,https://asc-cybernetics.org/2012/?p=681,false,,,"2012 Asilomar, California conference"
+item:c305cf0b23,Item,an ecology of ideas,2012,Conference page,https://asc-cybernetics.org/2012/?p=1,false,,,"2012 Asilomar, California conference"
+item:6a430fa44b,Item,Architectural Design Education Between Poetry and Prose,2012,Conference page,https://asc-cybernetics.org/2012/?p=650,false,,,"2012 Asilomar, California conference"
+item:860a648e46,Item,Arriving by air,2012,Conference page,https://asc-cybernetics.org/2012/?p=73,false,,,"2012 Asilomar, California conference"
+item:6a5d971d01,Item,Art as ‘Phantasmagoria’: Between Illusion and Reification,2012,Conference page,https://asc-cybernetics.org/2012/?p=781,false,,,"2012 Asilomar, California conference"
+item:52bc113373,Item,ASC GBM,2012,Conference page,https://asc-cybernetics.org/2012/?p=132,false,,,"2012 Asilomar, California conference"
+item:ed30d8b855,Item,Behavior & Experience: A Non-Dualistic Model for the Material and Goal of Art and Design,2012,Conference page,https://asc-cybernetics.org/2012/?p=745,false,,,"2012 Asilomar, California conference"
+item:5f3417e4bd,Item,Bilogical Coordination and the Construction of Reality,2012,Conference page,https://asc-cybernetics.org/2012/?p=769,false,,,"2012 Asilomar, California conference"
+item:d656909050,Item,"Confusing the “Confusion Matrix”: The Paradigm of Shannon Information Theory, Versus its Praxis in Sensory Science",2012,Conference page,https://asc-cybernetics.org/2012/?p=721,false,,,"2012 Asilomar, California conference"
+item:90b585b44e,Item,Constraint and flexibility in the planning and enactment of education,2012,Conference page,https://asc-cybernetics.org/2012/?p=631,false,,,"2012 Asilomar, California conference"
+item:96f80c1a0a,Item,Conversations,2012,Conference page,https://asc-cybernetics.org/2012/?p=129,false,,,"2012 Asilomar, California conference"
+item:014bcd05a1,Item,Creativity from a Systems Perspective,2012,Conference page,https://asc-cybernetics.org/2012/?p=657,false,,,"2012 Asilomar, California conference"
+item:32fc5f1b94,Item,"Cybernetics and Metadesign: Modes of Embodied, Virtual, and Hybrid Communication",2012,Conference page,https://asc-cybernetics.org/2012/?p=672,false,,,"2012 Asilomar, California conference"
+item:6506a42ef7,Item,"Cybernetics, Gregory Bateson, and Ecocide",2012,Conference page,https://asc-cybernetics.org/2012/?p=645,false,,,"2012 Asilomar, California conference"
+item:9a8224813c,Item,Designing What’s Between the I and Nature,2012,Conference page,https://asc-cybernetics.org/2012/?p=785,false,,,"2012 Asilomar, California conference"
+item:a8a66305d3,Item,Driving to Asilomar,2012,Conference page,https://asc-cybernetics.org/2012/?p=336,false,,,"2012 Asilomar, California conference"
+item:6aba9252d7,Item,Dynamical Depth: An Alternative Measure of Systemic Complexity,2012,Conference page,https://asc-cybernetics.org/2012/?p=559,false,,,"2012 Asilomar, California conference"
+item:0bdac15f66,Item,Ecology of ideas and ecology’s ideas,2012,Conference page,https://asc-cybernetics.org/2012/?p=522,false,,,"2012 Asilomar, California conference"
+item:5552bac1c8,Item,Experiencing an integrative Observer,2012,Conference page,https://asc-cybernetics.org/2012/?p=585,false,,,"2012 Asilomar, California conference"
+item:2493b648b2,Item,From Creation to Dynamic Co-creation: Developing a Cybernetic Lifestyle,2012,Conference page,https://asc-cybernetics.org/2012/?p=705,false,,,"2012 Asilomar, California conference"
+item:ee78eea8fb,Item,Fundamental Relativity,2012,Conference page,https://asc-cybernetics.org/2012/?p=713,false,,,"2012 Asilomar, California conference"
+item:20d0d1a5de,Item,Gregory Bateson And The Murderer,2012,Conference page,https://asc-cybernetics.org/2012/?p=539,false,,,"2012 Asilomar, California conference"
+item:cd848b235c,Item,Growing Boundary Objects: Among Transcontextual Feminisms,2012,Conference page,https://asc-cybernetics.org/2012/?p=676,false,,,"2012 Asilomar, California conference"
+item:79f656cfab,Item,Guidelines,2012,Conference page,https://asc-cybernetics.org/2012/?p=174,false,,,"2012 Asilomar, California conference"
+item:39731aa913,Item,Hansel and Gretel for All Ages: A Cybernetic Approach to a Template for Recurring Dialog,2012,Conference page,https://asc-cybernetics.org/2012/?p=573,false,,,"2012 Asilomar, California conference"
+item:85ed457aed,Item,How planning meets living,2012,Conference page,https://asc-cybernetics.org/2012/?p=667,false,,,"2012 Asilomar, California conference"
+item:f5ff774e57,Item,Imagination and Action: Gregory Bateson’s ‘Ecology of Mind’ as a Challenge to Philosophical Epistemology,2012,Conference page,https://asc-cybernetics.org/2012/?p=709,false,,,"2012 Asilomar, California conference"
+item:1219e2254b,Item,Important dates,2012,Conference page,https://asc-cybernetics.org/2012/?p=24,false,,,"2012 Asilomar, California conference"
+item:812408e8dd,Item,Invited speakers,2012,Conference page,,true,,,"2012 Asilomar, California conference"
+item:7583a79572,Item,Is the World Loving?,2012,Conference page,https://asc-cybernetics.org/2012/?p=947,false,,,"2012 Asilomar, California conference"
+item:6c0cbb2fe8,Item,June | 2011,2012,Conference page,https://asc-cybernetics.org/2012/index__m_201106.html,false,,,"2012 Asilomar, California conference"
+item:9a97daa9bf,Item,"Language, Culture and Information: Designing a Greener Blogsphere",2012,Conference page,https://asc-cybernetics.org/2012/?p=765,false,,,"2012 Asilomar, California conference"
+item:2af636f1c2,Item,Legal Dynamics Far From Equilibrium: Towards A New Paradigm In Understanding Legal Change,2012,Conference page,https://asc-cybernetics.org/2012/?p=635,false,,,"2012 Asilomar, California conference"
+item:f0d1b79d05,Item,"Leges Artis, End(ing) of Life, and Compassion",2012,Conference page,https://asc-cybernetics.org/2012/?p=750,false,,,"2012 Asilomar, California conference"
+item:1f051b9054,Item,Lost Password,2012,Conference page,https://asc-cybernetics.org/2012/index__action_lostpassword.html,false,,,"2012 Asilomar, California conference"
+item:8fb1e2eb41,Item,"Multiple Paradigms of Information within Cybernetics, in Theory and Practice",2012,Conference page,https://asc-cybernetics.org/2012/?p=737,false,,,"2012 Asilomar, California conference"
+item:7a092d7184,Item,Neighbors of the ISO 26000,2012,Conference page,https://asc-cybernetics.org/2012/?p=518,false,,,"2012 Asilomar, California conference"
+item:76221555de,Item,Organizations,2012,Conference page,https://asc-cybernetics.org/2012/?p=346,false,,,"2012 Asilomar, California conference"
+item:2b82334cb9,Item,pangaro is going off the net,2012,Conference page,https://asc-cybernetics.org/2012/?p=725,false,,,"2012 Asilomar, California conference"
+item:b0017b11af,Item,Paradigm Shift Towards Systemic and Adaptive Governance: Praxis Relevant to a Structurally-Coupled Social-Biophysical System?,2012,Conference page,https://asc-cybernetics.org/2012/?p=661,false,,,"2012 Asilomar, California conference"
+item:970529e641,Item,Paradigms and Recursions That (Might) Generate a Praxis,2012,Conference page,https://asc-cybernetics.org/2012/?p=701,false,,,"2012 Asilomar, California conference"
+item:4a58445bd7,Item,People,2012,Conference page,https://asc-cybernetics.org/2012/?p=108,false,,,"2012 Asilomar, California conference"
+item:450691e19c,Item,Performances,2012,Conference page,https://asc-cybernetics.org/2012/?p=126,false,,,"2012 Asilomar, California conference"
+item:28c7a7c09b,Item,Picturing the Frame: Performing the Form,2012,Conference page,https://asc-cybernetics.org/2012/?p=867,false,,,"2012 Asilomar, California conference"
+item:7b65eab3e8,Item,Poetry and Art Performance,2012,Conference page,https://asc-cybernetics.org/2012/?p=606,false,,,"2012 Asilomar, California conference"
+item:2cf4c82b08,Item,Proceedings Submission,2012,Conference page,https://asc-cybernetics.org/2012/?p=216,false,,,"2012 Asilomar, California conference"
+item:51b15495d1,Item,Publication,2012,Conference page,https://asc-cybernetics.org/2012/?p=183,false,,,"2012 Asilomar, California conference"
+item:e9cb1c3809,Item,Real Wealth: Examining Human Overshoot and Earth’s Systems,2012,Conference page,https://asc-cybernetics.org/2012/?p=793,false,,,"2012 Asilomar, California conference"
+item:8993399ba7,Item,Recursion and responsibility in eduction,2012,Conference page,https://asc-cybernetics.org/2012/?p=506,false,,,"2012 Asilomar, California conference"
+item:254b29cf4f,Item,Recursion in Language and Learning: What Autism Teaches us About Praxis,2012,Conference page,https://asc-cybernetics.org/2012/?p=581,false,,,"2012 Asilomar, California conference"
+item:875c874877,Item,Refereeing,2012,Conference page,https://asc-cybernetics.org/2012/?p=180,false,,,"2012 Asilomar, California conference"
+item:24be289084,Item,Refinement: A Rigorous Description of Autonomous Adaptive Agents,2012,Conference page,https://asc-cybernetics.org/2012/?p=485,false,,,"2012 Asilomar, California conference"
+item:fa081bb332,Item,Reflections on the Role of Recursion in the Ecology of Ideas: A Non-linear Narrative on the Evolution of Learning,2012,Conference page,https://asc-cybernetics.org/2012/?p=640,false,,,"2012 Asilomar, California conference"
+item:1b19188a1e,Item,Reflexive Thought-Ecologies: An Ethic of Praxis,2012,Conference page,https://asc-cybernetics.org/2012/?p=776,false,,,"2012 Asilomar, California conference"
+item:30dc50d59f,Item,Reflexivity Panel,2012,Conference page,https://asc-cybernetics.org/2012/?p=804,false,,,"2012 Asilomar, California conference"
+item:b72598dd59,Item,Resisting Invitations,2012,Conference page,https://asc-cybernetics.org/2012/?p=759,false,,,"2012 Asilomar, California conference"
+item:e89dc70785,Item,Screening of two Films,2012,Conference page,https://asc-cybernetics.org/2012/?p=598,false,,,"2012 Asilomar, California conference"
+item:f41c342b9e,Item,Second-Order Cybernetics Action: Challenges For a Multi-Skilled Cultural Agent,2012,Conference page,https://asc-cybernetics.org/2012/?p=688,false,,,"2012 Asilomar, California conference"
+item:6a42794d8f,Item,Stay informed,2012,Conference page,https://asc-cybernetics.org/2012/?p=105,false,,,"2012 Asilomar, California conference"
+item:7bcba0f3d8,Item,Stranger in a Strange Loop,2012,Conference page,https://asc-cybernetics.org/2012/?p=741,false,,,"2012 Asilomar, California conference"
+item:0dc36ad4a7,Item,Susan Parenti accepts “ASC Warren McCulloch Award for Livelong Avoidance”,2012,Conference page,https://asc-cybernetics.org/2012/?p=965,false,,,"2012 Asilomar, California conference"
+item:e83b721980,Item,Teaching An Ecology of Mind: Teaching-Learning as Personal and Social Recursive Systems,2012,Conference page,https://asc-cybernetics.org/2012/?p=840,false,,,"2012 Asilomar, California conference"
+item:6d8c0e2361,Item,The current status of academic journals in cybernetics and systems,2012,Conference page,https://asc-cybernetics.org/2012/?p=852,false,,,"2012 Asilomar, California conference"
+item:4792d15bbc,Item,The Difference that Makes a Difference that Deacon Makes: Double Description on Deacon and Bateson’s Contributions to Understanding Mind and Nature,2012,Conference page,https://asc-cybernetics.org/2012/?p=821,false,,,"2012 Asilomar, California conference"
+item:f0e035b26b,Item,The ethical limitations of computational design strategies,2012,Conference page,https://asc-cybernetics.org/2012/?p=530,false,,,"2012 Asilomar, California conference"
+item:5597b7bb08,Item,The Having and Proliferation of Ideas: A Recent “State-Change” in the Idea of the Non-Trivial Machine,2012,Conference page,https://asc-cybernetics.org/2012/?p=577,false,,,"2012 Asilomar, California conference"
+item:2db15ad855,Item,The Paradigm of Ecology in Dune and Steps to an Ecology of Mind,2012,Conference page,https://asc-cybernetics.org/2012/?p=544,false,,,"2012 Asilomar, California conference"
+item:ac9c014100,Item,The Root And Responsibility Model,2012,Conference page,https://asc-cybernetics.org/2012/?p=511,false,,,"2012 Asilomar, California conference"
+item:b8999b5be6,Item,The Togetherness of Togetherness and Separateness: Enchantment and Disenchantment as Complementary yet Irreducible,2012,Conference page,https://asc-cybernetics.org/2012/?p=534,false,,,"2012 Asilomar, California conference"
+item:d4638c133e,Item,The Tyranny of the Prefrontal Cortex,2012,Conference page,https://asc-cybernetics.org/2012/?p=692,false,,,"2012 Asilomar, California conference"
+item:47420af88c,Item,Theatre Performance,2012,Conference page,https://asc-cybernetics.org/2012/?p=623,false,,,"2012 Asilomar, California conference"
+item:53c581845c,Item,Themes,2012,Conference page,https://asc-cybernetics.org/2012/?p=95,false,,,"2012 Asilomar, California conference"
+item:728772f811,Item,Thermodynamic Disequilibrium as the Original Binary Logic of the ‘Local Order’ of Human Meaning Systems,2012,Conference page,https://asc-cybernetics.org/2012/?p=733,false,,,"2012 Asilomar, California conference"
+item:6df0129a2c,Item,Tourism,2012,Conference page,https://asc-cybernetics.org/2012/?p=77,false,,,"2012 Asilomar, California conference"
+item:a344bf6a33,Item,Toward a New Paradigm of Child Mental Health,2012,Conference page,https://asc-cybernetics.org/2012/?p=789,false,,,"2012 Asilomar, California conference"
+item:858c44fcf2,Item,Unentitled,2012,Conference page,https://asc-cybernetics.org/2012/?p=615,false,,,"2012 Asilomar, California conference"
+item:3aa61af18d,Item,Unitary Epistemology,2012,Conference page,https://asc-cybernetics.org/2012/?p=550,false,,,"2012 Asilomar, California conference"
+item:a3db8ac128,Item,Wallace Stevens: Complexity and the System of Self-Reference,2012,Conference page,https://asc-cybernetics.org/2012/?p=754,false,,,"2012 Asilomar, California conference"
+item:85640455ed,Item,What Every Cybernetician Should Know: Huffman’s Minimum Redundancy as Metaphor – “A Pattern that Connects”‬‬‬‬‬‬,2012,Conference page,https://asc-cybernetics.org/2012/?p=717,false,,,"2012 Asilomar, California conference"
+item:0a4afffa70,Item,What is matter? Never mind. What is mind? No matter.,2012,Conference page,https://asc-cybernetics.org/2012/?p=848,false,,,"2012 Asilomar, California conference"
+item:5adc93b0e9,Item,"with foot in mouth, I dance",2012,Conference page,https://asc-cybernetics.org/2012/?p=899,false,,,"2012 Asilomar, California conference"
+item:68724f479f,Item,Workshops,2012,Conference page,https://asc-cybernetics.org/2012/?p=123,false,,,"2012 Asilomar, California conference"
+item:c13359316d,Item,Venue,2012,Practical,https://asc-cybernetics.org/2012/?p=22,false,,,"2012 Asilomar, California conference"
+item:fed4198cf6,Item,Program,2012,Program,https://asc-cybernetics.org/2012/?p=26,false,,,"2012 Asilomar, California conference"
+item:40a437ebc2,Item,ALU conference follow up RG,2013,Document,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:3975c37f95,Item,ASC2013booklet,2013,Document,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:36207105d7,Item,John Beishon Memorial Lecture,2013,Document,https://asc-cybernetics.org/2013/wp-content/uploads/2013/07/John_Beishon_Memorial_Lecture.pdf,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:2769853fa5,Item,The Lost Art of Listening,2013,Document,https://asc-cybernetics.org/2013/wp-content/uploads/2013/07/The_Lost_Art_of_Listening.pdf,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:00d131fa32,Item,2013 General Business Meeting held at Bolton University,2013,Conference page,https://asc-cybernetics.org/2013/?p=1525,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:1c17a05bff,Item,"Acting – Learning – Understanding – reflecting, collaborating, conversing, doing",2013,Conference page,https://asc-cybernetics.org/2013/,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:ef6731bf3f,Item,Activity,2013,Conference page,https://asc-cybernetics.org/2013/?p=10,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:71688a6f3a,Item,ALU Conference Follow-Up,2013,Conference page,https://asc-cybernetics.org/2013/?p=1608,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:a3163ceae7,Item,ALU conference update 21.07.2013,2013,Conference page,https://asc-cybernetics.org/2013/?p=1442,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:c2df7618d5,Item,Blog – Page 2,2013,Conference page,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:4f3fdb351e,Item,Blog – Page 3,2013,Conference page,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:b7127dc6a3,Item,Conference blog is now open for all participants,2013,Conference page,https://asc-cybernetics.org/2013/?p=1118,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:2ed6f13f19,Item,Conference Booklet,2013,Conference page,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:0b1bee29ef,Item,Conference Dinner,2013,Conference page,https://asc-cybernetics.org/2013/?p=1181,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:95415e9ede,Item,Conference style and paper presentation scheduling,2013,Conference page,https://asc-cybernetics.org/2013/?p=1501,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:b1e6f0f266,Item,Conference Welcome and Introduction,2013,Conference page,https://asc-cybernetics.org/2013/?p=1540,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:b1ba66d005,Item,Heinz von Foerster Award,2013,Conference page,https://asc-cybernetics.org/2013/?p=368,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:86a5a0cbd7,Item,How to Participate,2013,Conference page,https://asc-cybernetics.org/2013/?p=471,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:f280c8f6cc,Item,I hope to elaborate a short sentence or paragraph for each as part of the ”Conversation” conference book,2013,Conference page,https://asc-cybernetics.org/2013/?p=1557,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:040beda412,Item,Important Dates,2013,Conference page,https://asc-cybernetics.org/2013/?p=127,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:6d185a4b2c,Item,International Advisory Board,2013,Conference page,https://asc-cybernetics.org/2013/?p=115,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:e61405c358,Item,Landfillharmonic Orchestra,2013,Conference page,https://asc-cybernetics.org/2013/?p=1461,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:830d40d98a,Item,Last minute reminder,2013,Conference page,https://asc-cybernetics.org/2013/?p=1460,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:4543ea07bd,Item,Location,2013,Conference page,https://asc-cybernetics.org/2013/?p=13,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:fbccac1531,Item,Logistics,2013,Conference page,https://asc-cybernetics.org/2013/?p=125,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:ce716868b8,Item,Lost Art of Listening,2013,Conference page,https://asc-cybernetics.org/2013/?p=1499,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:8d9f8ed652,Item,Main Conference (30Jul-1Aug),2013,Conference page,https://asc-cybernetics.org/2013/?p=403,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:689ac2eae0,Item,"Musical Instrument fun with Bungle, Zippy and George",2013,Conference page,https://asc-cybernetics.org/2013/?p=1500,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:6e8da856b1,Item,My questions,2013,Conference page,https://asc-cybernetics.org/2013/?p=1498,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:3b21867780,Item,Now a few more questions… about fear and criticality,2013,Conference page,https://asc-cybernetics.org/2013/?p=1504,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:7c26034f18,Item,Organizers,2013,Conference page,https://asc-cybernetics.org/2013/?p=172,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:3da1d42f4f,Item,Paper Format,2013,Conference page,https://asc-cybernetics.org/2013/?p=305,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:ab3eb4d23e,Item,Paper presentation time slot requests,2013,Conference page,https://asc-cybernetics.org/2013/?p=1462,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:01c485ab87,Item,Paper Presentations,2013,Conference page,https://asc-cybernetics.org/2013/?p=109,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:6d10e9201e,Item,Paper Refereeing,2013,Conference page,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:1b73db874f,Item,Papers,2013,Conference page,https://asc-cybernetics.org/2013/?p=28,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:6180753bdd,Item,Participants,2013,Conference page,https://asc-cybernetics.org/2013/?p=654,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:5076033547,Item,Participants Overview,2013,Conference page,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:ff4c5e189e,Item,Participation,2013,Conference page,https://asc-cybernetics.org/2013/?p=69,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:4a213e8781,Item,People,2013,Conference page,https://asc-cybernetics.org/2013/?p=113,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:d3d3b08315,Item,Performance Evening,2013,Conference page,https://asc-cybernetics.org/2013/?p=1570,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:181627e36b,Item,Performances,2013,Conference page,https://asc-cybernetics.org/2013/?p=89,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:2b0428b4cc,Item,Post to Blog,2013,Conference page,https://asc-cybernetics.org/2013/?p=1123,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:a124efa765,Item,Post-Conference (2Aug-3Aug),2013,Conference page,https://asc-cybernetics.org/2013/?p=336,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:3103d6346a,Item,Pre-Conference (28Jul-29Jul),2013,Conference page,https://asc-cybernetics.org/2013/?p=332,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:204657fac7,Item,Premise,2013,Conference page,https://asc-cybernetics.org/2013/?p=5,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:7e1ce63e8c,Item,Presentations After Work Session 2.1,2013,Conference page,https://asc-cybernetics.org/2013/?p=1602,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:1dd59f3a84,Item,Proceedings,2013,Conference page,https://asc-cybernetics.org/2013/?p=30,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:a7b49e90c6,Item,Publication,2013,Conference page,https://asc-cybernetics.org/2013/?p=101,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:3f86615a03,Item,Questions Arising from the Conference,2013,Conference page,https://asc-cybernetics.org/2013/?p=1604,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:6231492d6e,Item,Roger Harnden’s Expressions of Interest,2013,Conference page,https://asc-cybernetics.org/2013/?p=1478,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:3269ab72f2,Item,Some Approaches to Tacit and Intuitive Knowledge Exploration – possible class,2013,Conference page,https://asc-cybernetics.org/2013/?p=1556,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:413cb6a427,Item,Sound and Vision,2013,Conference page,https://asc-cybernetics.org/2013/?p=355,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:b725ee057a,Item,Special Activity,2013,Conference page,https://asc-cybernetics.org/2013/?p=1563,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:339f2b4ce1,Item,Style,2013,Conference page,https://asc-cybernetics.org/2013/?p=12,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:946d1a9f37,Item,The Seaman and the Tattered Sail / Light Folds,2013,Conference page,https://asc-cybernetics.org/2013/?p=1539,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:9004537813,Item,Theme and Sub-Themes,2013,Conference page,https://asc-cybernetics.org/2013/?p=2,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:469a4ced56,Item,time for presentations,2013,Conference page,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:b699ae70b5,Item,Tour 1 by Dai Griffith,2013,Conference page,https://asc-cybernetics.org/2013/?p=911,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:41690eb116,Item,Tour 2 by Michael Hohl,2013,Conference page,https://asc-cybernetics.org/2013/?p=915,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:ca43e002c6,Item,Tour 3 by Mark Johnson,2013,Conference page,https://asc-cybernetics.org/2013/?p=1097,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:09d681d99c,Item,Tour Guide by Ranulph Glanville,2013,Conference page,https://asc-cybernetics.org/2013/?p=972,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:b8c9c28643,Item,Tourism,2013,Conference page,https://asc-cybernetics.org/2013/?p=190,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:e4726263d3,Item,Transportation,2013,Conference page,https://asc-cybernetics.org/2013/?p=192,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:e0b0dfffdc,Item,Trojan Horses,2013,Conference page,https://asc-cybernetics.org/2013/?p=1558,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:f66e581bb5,Item,Uncategorized – Page 2,2013,Conference page,https://asc-cybernetics.org/2013/index__paged_2_cat_1.html,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:9926688e19,Item,Uncategorized – Page 3,2013,Conference page,https://asc-cybernetics.org/2013/index__paged_3_cat_1.html,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:ce23d9a843,Item,Under 36,2013,Conference page,https://asc-cybernetics.org/2013/?p=1537,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:5109956043,Item,update on conference events 10 July 2013,2013,Conference page,https://asc-cybernetics.org/2013/?p=1191,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:f6edaad4c1,Item,Update to conference 16 July,2013,Conference page,https://asc-cybernetics.org/2013/?p=1246,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:3e4fdf234f,Item,Work Session 1.1,2013,Conference page,https://asc-cybernetics.org/2013/?p=1568,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:84a0a24d5d,Item,Your Suggestions,2013,Conference page,https://asc-cybernetics.org/2013/?p=92,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:0d840cc779,Item,"Learning as Outcomes: Addressing Discarded Ideas in the User Centered Design Cycle (paper proposal, Ann Morrison)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1000,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:f11bdd59d6,Item,"Learning About Learning: A Cybernetic Model of Skill Acquisition (paper proposal, Bernard Scott)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=718,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:174e6164cd,Item,"Insight Engine (paper proposal, Bill Seaman)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1115,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:8fef8c3dd9,Item,"Informal learning recognition – From theory to practice (paper proposal, Dai Griffiths)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1285,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:f63eee3b28,Item,"Consequences of complex socio-technical systems for the level of human agency (paper proposal, Eliana Herrera-Vega)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=744,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:239ccb5797,Item,"Understanding and Learning to Reconcile Differences between Disciplines through Constructing an Artificial Personality (paper proposal, Faisal Kadri)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=753,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:84909a6bf5,Item,"Multi-level Self-Organizations in Human Interactions (paper proposal, Jason Hu)",2013,Paper proposal,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:c23baa32d4,Item,"Labyrinth Psychotica, Simulating Psychotic Phenomena (paper proposal, Jennifer Kanary)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=789,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:7956389438,Item,"Stress in mental health professionals: from researcher to sufferer. (paper proposal, Jerome Carson)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=798,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:47c953ac5f,Item,"Shifting from teaching to learning – understanding as a collective experience. (paper proposal, Jose dos Santos Cabral Filho)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=727,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:8f19b27dc1,Item,"Understanding Understanding. Exploring Second-Order Science Fields (paper proposal, Karl H. Müller)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1046,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:d24a89a231,Item,"From Doing to Knowing and Back: The Cybernetics of Wisdom (paper proposal, Larry Richards)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=813,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:a21e6fee10,Item,"Mutual Redundancies in Inter-human Communication Systems: Steps Towards a Calculus of Processing Meaning (paper proposal, Loet Leydesdorff)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=821,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:c391e58da9,Item,"The Application of Social Cybernetics in Organizational Analysis (paper proposal, Ludmila Malinova)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=837,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:91284c72c9,Item,"The rise of the infoborgs: post-humanism and materiality in the age of ubiquitous information (paper proposal, Magnus Ramage)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=853,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:8907036835,Item,"Triple loop learning and the politics of systems practice (paper proposal, Martin Reynolds)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=861,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:43864b4610,Item,Mercy Kesiena Clement Okooboh’s Paper Proposal,2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1449,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:84e628c4a4,Item,"Designing, acting, understanding: Reflections on the relationship between practice and theory in the design process (paper proposal, Michael Hohl)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=869,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:1a8f354dbc,Item,"A Cybernetics View of Explanation (paper proposal, Michael Lissack)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=967,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:4f316c6b32,Item,"Informal learning recognition – From theory to practice (paper proposal, Miguel Conde)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=845,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:ebe2a040a2,Item,"Achieving organizational excellence by adopting “Values to Value™” framework. (paper proposal, Narayana Mandaleeka)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1204,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:95ecedbf34,Item,Learning About Learning: A Cybernetic Model of Skill Acquisition (paper proposal),2013,Paper proposal,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:9efc1d7710,Item,Paper proposals: Comments,2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1211,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:a98ff49273,Item,"Contextual Inquiry and Socio-Technical Practice (paper proposal, Peter Bednar)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1275,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:27bdcabcc3,Item,"A Second-Order Cybernetic Approach to Social Cognitive Behavioural Therapy (paper proposal, Philip Baron)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1014,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:22d63c1f52,Item,"Learning: Variety-Amplification in Autonomous Systems (paper proposal, Thomas Fischer)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1064,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:6181c385d5,Item,"A cybernetics framework to analyse the relationships between ‘actions/activities and understandings’ and vice-versa for holistic learning considering risks (paper proposal, Tirumala V)",2013,Paper proposal,https://asc-cybernetics.org/2013/?p=1072,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:86d080963f,Item,Accommodation,2013,Practical,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:8c2425b3e2,Item,Fees and Payment,2013,Practical,https://asc-cybernetics.org/2013/?p=131,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:8827d85459,Item,Registration,2013,Practical,https://asc-cybernetics.org/2013/?p=82,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:ed46c04d53,Item,Venue,2013,Practical,https://asc-cybernetics.org/2013/?p=139,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:5a40ad94ae,Item,Conference Program,2013,Program,https://asc-cybernetics.org/2013/?p=129,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:0f3ff602c8,Item,Program Committee,2013,Program,https://asc-cybernetics.org/2013/?p=119,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:27d9b80768,Item,1st Advanced Tutorial delivered by Bernard Scott,2013,Program session,https://asc-cybernetics.org/2013/?p=1530,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:b5777cad88,Item,Advanced Tutorial 1 – Mon a.m.,2013,Program session,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:326b129842,Item,Advanced Tutorial 2 – Mon p.m.,2013,Program session,,true,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:08927a0699,Item,Beginners’ Tutorial – Mon a.m. + p.m.,2013,Program session,https://asc-cybernetics.org/2013/?p=879,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:e8f372f370,Item,Beginner’s Tutorial: White Board Photo,2013,Program session,https://asc-cybernetics.org/2013/?p=1592,false,,,"2013 Bolton, UK: Acting – Learning – Understanding"
+item:83c063d072,Item,2014 ASC conference flyer,2014,Document,https://asc-cybernetics.org/2014/wp-content/uploads/2014/03/2014_ASC_conference_flyer.pdf,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:744112fad5,Item,2014 ASC conference schedule,2014,Document,https://asc-cybernetics.org/2014/wp-content/uploads/2014/07/2014_ASC_conference_schedule.pdf,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:04b3f414c4,Item,MCB 2014ASC dinner speech,2014,Document,https://asc-cybernetics.org/2014/wp-content/uploads/2014/08/MCB_2014ASC_dinner_speech.mp3,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:28c1bab951,Item,ASC Cybernetics in the Future (7 and 8 August),2014,Conference page,https://asc-cybernetics.org/2014/?p=173,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:0bd8dd553f,Item,ASC Cybernetics in the Past (6 August),2014,Conference page,https://asc-cybernetics.org/2014/?p=171,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:d1258c8036,Item,ASC Cybernetics in the Present (4 and 5 August),2014,Conference page,https://asc-cybernetics.org/2014/?p=165,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:125ea3f5b0,Item,calendar to transclude,2014,Conference page,https://asc-cybernetics.org/2014/?p=193,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:6739fc98fe,Item,Conference Dinner,2014,Conference page,https://asc-cybernetics.org/2014/?p=121,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:0f92b9a3d1,Item,Conference Participants,2014,Conference page,https://asc-cybernetics.org/2014/?p=77,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:4973a7d840,Item,Details: ASC Cybernetics in the Future,2014,Conference page,https://asc-cybernetics.org/2014/?p=542,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:c52e35a966,Item,Heinz von Foerster Award,2014,Conference page,https://asc-cybernetics.org/2014/?p=117,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:781265b051,Item,Important Dates,2014,Conference page,https://asc-cybernetics.org/2014/?p=88,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:39bf2c6276,Item,International Advisory Board,2014,Conference page,https://asc-cybernetics.org/2014/?p=79,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:4ef105b118,Item,ISSS Connection,2014,Conference page,https://asc-cybernetics.org/2014/?p=389,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:2ab945720d,Item,Living in Cybernetics | 2014 Conference of the American Society for Cybernetics,2014,Conference page,https://asc-cybernetics.org/2014/,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:78b318d689,Item,Location,2014,Conference page,https://asc-cybernetics.org/2014/?p=43,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:7e9f4f0fce,Item,Logistics,2014,Conference page,https://asc-cybernetics.org/2014/?p=52,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:4bc89803c2,Item,Main Conference,2014,Conference page,https://asc-cybernetics.org/2014/?p=218,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:b6579f0a49,Item,Museum of Cybernetic Objects,2014,Conference page,https://asc-cybernetics.org/2014/?p=114,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:36f5adcdce,Item,Other Events,2014,Conference page,https://asc-cybernetics.org/2014/?p=179,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:8222f24b30,Item,Paper Format,2014,Conference page,https://asc-cybernetics.org/2014/?p=102,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:8946df65a4,Item,Paper Presentations,2014,Conference page,https://asc-cybernetics.org/2014/?p=98,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:b5f6573c4e,Item,Paper Refereeing,2014,Conference page,https://asc-cybernetics.org/2014/?p=96,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:86a3970e07,Item,Papers,2014,Conference page,https://asc-cybernetics.org/2014/?p=93,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:2281428c8b,Item,Participation,2014,Conference page,https://asc-cybernetics.org/2014/?p=48,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:144514e623,Item,People,2014,Conference page,https://asc-cybernetics.org/2014/?p=54,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:fd2f7821fe,Item,Post-conference (9 August),2014,Conference page,https://asc-cybernetics.org/2014/?p=177,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:5c946132b6,Item,Pre-Conference (3 August),2014,Conference page,https://asc-cybernetics.org/2014/?p=175,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:b5b708158b,Item,Proceedings,2014,Conference page,https://asc-cybernetics.org/2014/?p=100,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:9a4be17238,Item,Publication,2014,Conference page,https://asc-cybernetics.org/2014/?p=50,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:b278bc3fbc,Item,Several Traditions of Cybernetics,2014,Conference page,https://asc-cybernetics.org/2014/?p=167,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:e35c0feef4,Item,Surrounding Events,2014,Conference page,https://asc-cybernetics.org/2014/?p=220,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:ab96d145d1,Item,Theme: Living in Cybernetics,2014,Conference page,https://asc-cybernetics.org/2014/?p=161,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:ef6da49301,Item,Tourism,2014,Conference page,https://asc-cybernetics.org/2014/?p=71,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:5c9ec7c45c,Item,Transportation,2014,Conference page,https://asc-cybernetics.org/2014/?p=65,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:913ba35b25,Item,Washington D.C.,2014,Conference page,https://asc-cybernetics.org/2014/?p=61,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:e4b2a0a4a9,Item,Your Suggestions,2014,Conference page,https://asc-cybernetics.org/2014/?p=125,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:d41e078346,Item,"Avec un „s“: Histories of Cybernetics (paper proposal, Albert Mueller)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=847,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:9f61cb2747,Item,"Living in a Cybernetic Universe (paper proposal, Allan Randall)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=763,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:b94fdd2c70,Item,"Cybernetics of Practice (paper proposal, Ben Sweeting)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=684,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:7879218470,Item,"Computational Creativity: Pointing to the Past ↔ Pointing to the Future – Cybernetic Pattern Flows (paper proposal, Bill Seaman)",2014,Paper proposal,,true,,,"2014 Washington, DC: Living in Cybernetics"
+item:acb1262193,Item,"Variety of Variety (paper proposal, Brian Hagy)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=696,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:cf820dc3ee,Item,"Information-Energy Metasystem Model (paper proposal, Cadell Last)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=707,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:91373b6c98,Item,"Possible Positive Psychology Intervention for Dyslexia (paper proposal, Chathurika Kannangara)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=773,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:b8973078b4,Item,"Cellular Automata Between Speculation and Utility (paper proposal, Christiane M. Herr)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=842,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:6675d078ce,Item,"Simulating Nature: the Monte Carlo Method as Speculative Computing and the Cybernetics of Physics (paper proposal, Clarissa Ai Ling Lee)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=672,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:6855611e1d,Item,"The Case for Knowledge Art: A Cybersemiotic Analysis of Space-Time Aesthetics in the Meta-Environment (paper proposal, Claudia Jacques)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=740,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:ab505fdfe0,Item,"Capoeira – a playful illustration of how to live in cybernetics. (paper proposal, Cristiano Rodrigues)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=806,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:d9f4569769,Item,"Steering the use of technology in education: rationales and results (paper proposal, Dai Griffiths)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=661,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:67d07fcbf8,Item,"Ecological Systems Thinking: Technological and Natural Systems (paper proposal, Darrell Arnold)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=666,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:eae893801f,Item,"The Boundary Triage: Controlling the Man and the Machine (paper proposal, Delia Pembrey MacNamara)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=720,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:00810c8e73,Item,"Evaluation of an Online Non-task-oriented Dialogue System based on Objective Personality Ratings (paper proposal, Eric W. Cooper)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=758,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:7b37fa6fbd,Item,"Cybernetic Mode: Overlapping of Narrativity and Subjectivity in New Media Art Works (paper proposal, Eser Selen)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=624,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:f44a554b42,Item,"The Cybernetics of Humor: Introducing Signature Analysis to Humor Research (paper proposal, Faisal Kadri)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=636,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:f441a30183,Item,"Cybernetics and Art: Communication Ecologies and Aesthetics (paper proposal, Jher)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=827,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:464c033cf8,Item,"Shifting from teaching to learning – understanding as a collective experience (paper proposal, Jose dos Santos Cabral Filho)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=812,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:b609facef3,Item,"LIVING IN CYBERNETICS IN THE CLASSROOM OF SYSTEMS SCIENCE (paper proposal, José-Isaias Badillo-Piña)",2014,Paper proposal,,true,,,"2014 Washington, DC: Living in Cybernetics"
+item:e9d5ac553d,Item,"Video Game Narrative and Cybernetics (paper proposal, Kathryn Soderholm)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=1149,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:a5b9f4a3b8,Item,"Recovered Consciousness as a Basis for Global Order: An Appreciation of Louis Herman’s “Future Primal” (paper proposal, Kent Myers)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=1154,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:d86f79bc95,Item,"The Homunculus Rides Again: why “information transmitted” in neuroscience tells us nothing (paper proposal, Lance Nizami)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=713,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:9a3cb37430,Item,"The Virtual Continuum and Second Order Cybernetics (paper proposal, Louis Kauffman)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=702,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:8e74939b56,Item,"Transverbality in Conversation (paper proposal, Marcus J. Carney)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=785,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:5517f811c0,Item,"From predetermination to dialogue in digital fabrication (paper proposal, Marcus Vinicius Bernardo)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=832,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:776a8ba973,Item,"The machine for living: Standardization and variety in design in the Conversational Age (paper proposal, Mateus van Stralen)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=817,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:541c6e7e15,Item,"Living in Cybernetics: Ecological literacy, design thinking and the pattern that connects (paper proposal, Michael Hohl)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=780,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:0f43ded594,Item,"From Cybernetics to Family Therapy to Future Education (paper proposal, Nozomu Ozaki)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=822,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:77adba42c6,Item,A cybernetic model of brain function (paper proposal),2014,Paper proposal,https://asc-cybernetics.org/2014/?p=768,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:e11a562293,Item,The functional organization of self-constructing observer-actors (paper proposal),2014,Paper proposal,https://asc-cybernetics.org/2014/?p=942,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:a784f7f9b5,Item,"Living in Cybernetics – connections to the Ocean and Earth (paper proposal, Peter Tuddenham)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=800,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:03996f1869,Item,"A quantitative examination of two different teaching paradigms in pre-school instruction. (paper proposal, Philip Baron)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=649,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:9dd9c1b27c,Item,"When Newton meets Heinz Von Foerster, Complexity vanishes and Simplicity reveals (paper proposal, Raman Kumar Agrawalla)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=925,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:6dfe0ae81a,Item,Ranulph Glanville’s Paper Proposal,2014,Paper proposal,https://asc-cybernetics.org/2014/?p=618,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:0acb9502b1,Item,"Cybersystemics, institutional complexity and human co-evolution (paper proposal, Ray Ison)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=735,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:96c17a8249,Item,"Reframing Society’s View of Self, and Responsibility, and Science (paper proposal, Robert Martin)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=795,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:e7e2ccf4ef,Item,"Information Society: The Concept of Social Transformation (paper proposal, Rochelle K. Young)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=852,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:520a962f9b,Item,"Human Resource Function as an adaptable system, facilitating Viability of an organization: Analyses applying cybernetic concepts & models. (paper proposal, Supriya Kummamuru)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=752,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:aaaab77ea5,Item,"My Inside-Out Colors and Upside-Down Thinking (paper proposal, Sylvia Skok)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=655,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:2bdfe1f470,Item,"Classification of Enactive Interfaces (paper proposal, Ted Krueger)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=746,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:573b75afe1,Item,"Perception of circularly-causal systems (paper proposal, Thomas Fischer)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=611,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:ecfa9bc27f,Item,"THE APPLICATION OF SET THEORY AND FUZZY LOGIC TO ENHANCE THE MENTOR-SUCCESSOR EDUCATION SYSTEM – the succession of Traditional Chinese Medicine, systemic practice and the teaching of Buddha (paper proposal, Thomas Wong)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=837,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:a52b626284,Item,"“Black Box” Theatre: The Director as “Cybernetic Engineer” (paper proposal, Tom Scholte)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=790,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:83f46ff57d,Item,"The Christchurch earthquakes’ impact on the Convergence Gathering: Traditions of Cybernetics: 4 Management , 9 Social Sciences (paper proposal, Victor MacGill)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=725,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:d22c10d99a,Item,"A PageRank-based collaborative filtering recommendation approach in digital libraries (paper proposal, Wenyu Zhang)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=730,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:013f189cc9,Item,"Student Success: A gap to the road not taken (paper proposal, William Hedgepeth)",2014,Paper proposal,https://asc-cybernetics.org/2014/?p=678,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:5fff1a12a2,Item,Accommodation,2014,Practical,,true,,,"2014 Washington, DC: Living in Cybernetics"
+item:296517a134,Item,Fees and Payment,2014,Practical,https://asc-cybernetics.org/2014/?p=81,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:185aad37eb,Item,Hosts and Venue,2014,Practical,https://asc-cybernetics.org/2014/?p=63,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:cbfae4c7b0,Item,Registration,2014,Practical,https://asc-cybernetics.org/2014/?p=110,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:80b6787753,Item,Conference Program,2014,Program,https://asc-cybernetics.org/2014/?p=90,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:ddbcc959f2,Item,Program Committee,2014,Program,https://asc-cybernetics.org/2014/?p=73,false,,,"2014 Washington, DC: Living in Cybernetics"
+item:5707a5da06,Item,Keynote Speakers – ASC2016,2016,Keynotes,https://asc-cybernetics.org/2016/?p=146,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:996a27b110,Item,ASC2016 – Action and Reflection: The Individual and the Collective,2016,Conference page,https://asc-cybernetics.org/2016/,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:ea93c8a886,Item,Conference Organizers – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/?p=13,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:1ab5d99acb,Item,Conference Participants – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/conference-participants/,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:a69b465f46,Item,Contact/Newsletter – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/?p=10,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:6ba732370f,Item,Heinz von Foerster Award – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/?p=45,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:f7507b2a7a,Item,HvF Eligibility – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/hvf-eligibility/,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:b7cd0753e0,Item,Important Dates – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/dates/,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:0ad4e8ac28,Item,Participation – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/?p=49,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:ca1186301f,Item,People – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/?p=56,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:80a0b5d444,Item,Performances Analysis – ASC2016,2016,Conference page,,true,,,"2016 Olympia, Washington: Action and Reflection"
+item:eb6a3c8762,Item,Proceedings – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/?p=68,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:0a756374d1,Item,Proposals Analysis – ASC2016,2016,Conference page,,true,,,"2016 Olympia, Washington: Action and Reflection"
+item:f3a8da6981,Item,Reviewing – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/?p=28,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:9c4d2542b3,Item,Who should attend? – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/early-announcement/who-is-this-conference-for/,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:9d5437fc79,Item,Your Suggestions – ASC2016,2016,Conference page,https://asc-cybernetics.org/2016/?p=63,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:974e2f80fc,Item,Accommodation – ASC2016,2016,Practical,https://asc-cybernetics.org/2016/accommodation/,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:d8d202496c,Item,Fees and Payment – ASC2016,2016,Practical,https://asc-cybernetics.org/2016/fees/,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:be893f727b,Item,Registration How-To – ASC2016,2016,Practical,https://asc-cybernetics.org/2016/?p=123,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:3235aa0a79,Item,Venue – ASC2016,2016,Practical,https://asc-cybernetics.org/2016/?p=26,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:fe503466d7,Item,Schedule – ASC2016,2016,Program,https://asc-cybernetics.org/2016/?p=196,false,,,"2016 Olympia, Washington: Action and Reflection"
+item:5f05859dd6,Item,ASC 2019 abstracts,2019,Document,https://asc-cybernetics.org/2019/wp-content/uploads/2019/06/ASC_2019_abstracts.pdf,false,,,2019 Vancouver: Acting Cybernetically
+item:70cd84b456,Item,ASC 2019 UBC campus map,2019,Document,https://asc-cybernetics.org/2019/wp-content/uploads/2019/06/ASC_2019_UBC_campus_map.pdf,false,,,2019 Vancouver: Acting Cybernetically
+item:7f61d27c1d,Item,ASC2019Schedule,2019,Document,https://asc-cybernetics.org/2019/wp-content/uploads/2019/06/ASC2019Schedule.pdf,false,,,2019 Vancouver: Acting Cybernetically
+item:9074708313,Item,Acting Cybernetically – 2019 Annual Conference of the American Society for Cybernetics,2019,Conference page,https://asc-cybernetics.org/2019/,false,,,2019 Vancouver: Acting Cybernetically
+item:265c1d8219,Item,Conference Theme: Acting Cybernetically – Acting Cybernetically,2019,Conference page,https://asc-cybernetics.org/2019/conference-theme/,false,,,2019 Vancouver: Acting Cybernetically
+item:9bea035845,Item,Invited Speakers – Acting Cybernetically,2019,Conference page,https://asc-cybernetics.org/2019/?p=113,false,,,2019 Vancouver: Acting Cybernetically
+item:622a63d3b1,Item,Our conference page is under construction. Please stay tuned! – Acting Cybernetically,2019,Conference page,https://asc-cybernetics.org/2019/2018/11/08/hello-world/,false,,,2019 Vancouver: Acting Cybernetically
+item:851c58adea,Item,Special Conference Event: An Evening at the Fun Palace – Acting Cybernetically,2019,Conference page,https://asc-cybernetics.org/2019/?p=31,false,,,2019 Vancouver: Acting Cybernetically
+item:592f4bd0bd,Item,Ways to Participate – Acting Cybernetically,2019,Conference page,,true,,,2019 Vancouver: Acting Cybernetically
+item:bf0177cbd4,Item,Accommodation – Acting Cybernetically,2019,Practical,https://asc-cybernetics.org/2019/accommodation/,false,,,2019 Vancouver: Acting Cybernetically
+item:28038c4f9d,Item,Fees and Dates – Acting Cybernetically,2019,Practical,https://asc-cybernetics.org/2019/fees-and-dates/,false,,,2019 Vancouver: Acting Cybernetically
+item:8a23cdd12a,Item,"A new Cybernetic Organization for the American Society of Cybernetics (entry by ""AiC"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=105,false,,,Cybernetics of Cybernetics Competition
+item:7aa69733e4,Item,"What it is to be human and part of a loving community (entry by ""anon"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=186,false,,,Cybernetics of Cybernetics Competition
+item:ec680edb69,Item,"Embodying Cybernetics: The Pask Prize (entry by ""blindspot"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=128,false,,,Cybernetics of Cybernetics Competition
+item:b5e4ada2d6,Item,"Enacting the Cybernetics of Cybernetics (entry by ""boobook"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=132,false,,,Cybernetics of Cybernetics Competition
+item:cbdced5664,Item,"choosing leaders (entry by ""cofc987"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=134,false,,,Cybernetics of Cybernetics Competition
+item:69ddb304f2,Item,"Viable Actors (entry by ""cybo"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=138,false,,,Cybernetics of Cybernetics Competition
+item:983b8084f5,Item,"The Framework of Cybernetics as a Framework for Cybernetics (entry by ""Edgar And"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=140,false,,,Cybernetics of Cybernetics Competition
+item:5ef3dc370d,Item,"More for Less: Putting Delights on Offer (entry by ""eigen"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=178,false,,,Cybernetics of Cybernetics Competition
+item:e26d0ac64c,Item,"Observing Cybernetic Organisations (entry by ""fg"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=143,false,,,Cybernetics of Cybernetics Competition
+item:83e0d43627,Item,"Self-Organization of ASC (entry by ""frombluebloodplanet"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=150,false,,,Cybernetics of Cybernetics Competition
+item:f111eae333,Item,"The ACRE Model (entry by ""Gordon Heavyfoot"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=152,false,,,Cybernetics of Cybernetics Competition
+item:b6085aca54,Item,"Applicational Cybernetics (entry by ""Lanny Lin"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=190,false,,,Cybernetics of Cybernetics Competition
+item:dd14bc8edc,Item,"‘NooSphere/ASC 2.0’ – a Wiki or Cybernetic Model of Cybernetic Thinking for An Evolutionary ASC (entry by ""MrsAbsent"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=156,false,,,Cybernetics of Cybernetics Competition
+item:e94e621e0c,Item,"A CYBERNETIC MODEL OF ORGANIZATIONS CONNECTING ORGANIZATION AND CULTURE THEORY (entry by ""organization_orientation_group"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=162,false,,,Cybernetics of Cybernetics Competition
+item:9a77dfa901,Item,"The “True Pilot” of Metacybernetics (entry by ""R1B1"")",,Competition entry,,true,,,Cybernetics of Cybernetics Competition
+item:3378ad2128,Item,"Structure, Environment, Purpose, and a Grand Challenge for the ASC (entry by ""Stella Octangula"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=169,false,,,Cybernetics of Cybernetics Competition
+item:d377781325,Item,"Towards New Ideas and New Members: Times and places for speaking / listening carefully / generously (entry by ""the.bactain"")",,Competition entry,https://asc-cybernetics.org/CofC/?p=174,false,,,Cybernetics of Cybernetics Competition
+item:af6f855101,Item,anon,,Document,https://asc-cybernetics.org/CofC/wp-content/uploads/2011/02/anon.pdf,false,,,Cybernetics of Cybernetics Competition
+item:cd4999e837,Item,asc submission 2011 01 29,,Document,https://asc-cybernetics.org/CofC/wp-content/uploads/2011/02/asc_submission_2011_01_29.pdf,false,,,Cybernetics of Cybernetics Competition
+item:dbdf7b40a8,Item,Structure-Environment-Purpose-and-a-Grand-Challenge-for-the-ASC-V2.0,,Document,https://asc-cybernetics.org/CofC/wp-content/uploads/2011/02/Structure-Environment-Purpose-and-a-Grand-Challenge-for-the-ASC-V2.0.pdf,false,,,Cybernetics of Cybernetics Competition
+item:2ea887ba0f,Item,About,,Conference page,https://asc-cybernetics.org/CofC/?p=2,false,,,Cybernetics of Cybernetics Competition
+item:0cbd188fed,Item,Cybernetics of Cybernetics Competition,,Conference page,https://asc-cybernetics.org/CofC/,false,,,Cybernetics of Cybernetics Competition
+item:9532ad6cd2,Item,Judging Criteria,,Conference page,https://asc-cybernetics.org/CofC/?p=19,false,,,Cybernetics of Cybernetics Competition
+item:021e0a1bfb,Item,Judging Process,,Conference page,https://asc-cybernetics.org/CofC/?p=26,false,,,Cybernetics of Cybernetics Competition
+item:99cea97aee,Item,Prizes,,Conference page,https://asc-cybernetics.org/CofC/?p=24,false,,,Cybernetics of Cybernetics Competition
+item:e47c494c51,Item,Received Entries,,Conference page,https://asc-cybernetics.org/CofC/?p=99,false,,,Cybernetics of Cybernetics Competition
+item:4d03e81bbf,Item,Result Announcement,,Conference page,https://asc-cybernetics.org/CofC/?p=221,false,,,Cybernetics of Cybernetics Competition
+item:f0e8407807,Item,Submission,,Conference page,https://asc-cybernetics.org/CofC/?p=22,false,,,Cybernetics of Cybernetics Competition
+item:53d54f935c,Item,values’ Entry,,Conference page,https://asc-cybernetics.org/CofC/?p=176,false,,,Cybernetics of Cybernetics Competition
+item:f6cf86e7b3,Item,Schedule,,Program,https://asc-cybernetics.org/CofC/?p=29,false,,,Cybernetics of Cybernetics Competition
+item:d188eedb19,Item,Cybernetics Literacy: The Essential Principles and Fundamental Concepts of Cybernetics (draft for review),2026,Literacy framework,https://cyberneticsliteracy.org/,false,,,cyberneticsliteracy.org
+item:29c96826e7,Item,Invitation to collaborate on the big ideas of cybernetics (2009 survey of ASC members),2009,Survey,https://cyberneticsliteracy.org/#process,false,,,College of Exploration survey of ASC members
+item:096d77cdb6,Item,"Principle 1 · Circularity: Cybernetics is the study of circularity: of feedback, regulation and control in living, mechanical and social systems.",2026,Literacy principle,https://cyberneticsliteracy.org/#p1,false,,,Essential principle 1 of 7
+item:c552cb4876,Item,Principle 2 · Variety: Only variety can absorb variety: a regulator must be able to match the complexity of what it regulates.,2026,Literacy principle,https://cyberneticsliteracy.org/#p2,false,,,Essential principle 2 of 7
+item:c37a1dadf3,Item,Principle 3 · Self-organisation: Systems organise and maintain themselves through their own circular processes.,2026,Literacy principle,https://cyberneticsliteracy.org/#p3,false,,,Essential principle 3 of 7
+item:50aa33cc8b,Item,Principle 4 · The observer: The observer is part of the system observed.,2026,Literacy principle,https://cyberneticsliteracy.org/#p4,false,,,Essential principle 4 of 7
+item:c0e4984315,Item,Principle 5 · Distinction: Knowing is constructed by drawing distinctions.,2026,Literacy principle,https://cyberneticsliteracy.org/#p5,false,,,Essential principle 5 of 7
+item:678f7e5c31,Item,Principle 6 · Conversation: Understanding grows through conversation.,2026,Literacy principle,https://cyberneticsliteracy.org/#p6,false,,,Essential principle 6 of 7
+item:f433c20f8a,Item,"Principle 7 · Ethics and choice: Cybernetics carries an ethic of participation, responsibility and choice.",2026,Literacy principle,https://cyberneticsliteracy.org/#p7,false,,,Essential principle 7 of 7
